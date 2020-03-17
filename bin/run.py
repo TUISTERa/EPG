@@ -1,12 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
-try:
-  import git
-except ImportError:
-  print ("Python git module not found. Try 'pip install gitpython'")
-  sys.exit()
-  
+import git
 import epg
 from helper import *
 
