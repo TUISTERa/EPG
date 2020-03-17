@@ -6,9 +6,10 @@ python3 -c "import git"
 if [[ $? -gt 0 ]]
 then
   echo "Installing python modules"
-  pip3 install --upgrade gitpython
+  pip3 install gitpython
 else
   echo "Dependancies already installed!"
 fi
 
-python3 run.py
+python3 main.py
+  

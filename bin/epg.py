@@ -8,10 +8,8 @@ import requests
 import subprocess
 from operator import attrgetter
 from random import randint
-from helper import *
 import xml.etree.ElementTree as et
 
-config_file = os.path.join(configdir, "wgmulti.config.json")
 
 def get_map():
   log("Getting channels map")

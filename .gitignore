@@ -1,6 +1,8 @@
 *.pyc
 *.ini
 epg.xml
+vivacom.epg.xml
+wgmulti.exe.config
 logs/
 temp/
 ../config/siteinis
