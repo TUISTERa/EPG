@@ -149,7 +149,7 @@ def grab():
     log("Using config dir %s" % configdir)
     log("Using wglogfile %s" % wglogfile)
     # cmd = "\"%s\" %s > %s" % (wgmulti, configdir, wglogfile)
-    cmd = "'%s' %s" % (wgmulti, configdir)
+    cmd = '"%s" "%s"' % (wgmulti, configdir)
     log("Executing command '%s'" % cmd)
     retval = subprocess.call(cmd, shell=True)
     log("Returned code: %s" % retval)
