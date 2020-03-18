@@ -62,16 +62,17 @@ if commitEnabled:
   l = len(files)
   if l == 0:
     log("No files were modified")
-  elif l == 1 and files[0] != "":
-    log("1 file was modified")
-    log("file: " + files[0])
+  elif l == 1:
+    if files[0] != "":
+      log("1 file was modified")
   else:
     log("%s files were modified" % l)
 
   if l > 0:
     for f in files:
-      log("Executing 'git add %s'" % f)
-      repo.add(f)
+      if f != "":
+        log("Executing 'git add %s'" % f)
+        repo.add(f)
 
     commitmsg = "Updating EPG"
     log("Executing 'git commit -m '%s'" % commitmsg)
