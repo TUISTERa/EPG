@@ -5,35 +5,6 @@ import git
 import epg
 from helper import *
 
-bindir         = os.path.dirname(os.path.realpath(__file__))
-gitdir         = os.path.dirname(os.path.realpath('.'))
-logdir         = os.path.join(gitdir, "logs")
-configdir      = os.path.join(gitdir, "config")
-temp           = os.path.join(gitdir, "temp")
-logfile        = os.path.join(logdir, "log.txt")
-mapsfile       = os.path.join(gitdir, "maps", "channels-tvbg.json")
-wgexeconfig    = os.path.join(bindir, 'wgmulti.exe.config')
-wglogfile      = os.path.join(logdir, "run.log.txt")
-wgmulti        = os.path.join(bindir, "wgmulti.exe")
-epg_file       = os.path.join(configdir, "epg.xml")
-final_epg_file = os.path.join(gitdir, "epg.xml")
-config_file    = os.path.join(configdir, "wgmulti.config.json")
-
-commitEnabled  = True
-
-if not os.path.exists(logdir):
-  os.makedirs(logdir)
-
-if os.path.isfile(logfile):
-  os.remove(logfile)
-#sys.stdout = open(logfile, "w")
-
-def log(msg):
-  text = "%s | %s" % (datetime.datetime.now(), msg)
-  #with open(logfile, "a") as w:
-  #  w.write(text + "\n")
-  print(text)
-
 log("Script execution started")
 log("Bin dir: " + bindir)
 log("Git dir: " + gitdir)
@@ -42,8 +13,9 @@ log("Config dir: " + configdir)
 log("Chaning dir to " + bindir)
 os.chdir(bindir)
 log("Current working dir: %s" % os.getcwd())
-log("Generating wgmulti.exe.config")
 
+
+log("Generating platform specific version of wgmulti.exe.config")
 content = ''
 with open(wgexeconfig + '.tmpl', 'r') as f:
   content = f.read()
@@ -92,6 +64,7 @@ if commitEnabled:
     log("No files were modified")
   elif l == 1:
     log("1 file was modified")
+    log("file: " + files[0])
   else:
     log("%s files were modified" % l)
 
