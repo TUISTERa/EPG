@@ -62,7 +62,7 @@ if commitEnabled:
   l = len(files)
   if l == 0:
     log("No files were modified")
-  elif l == 1:
+  elif l == 1 and files[0] != "":
     log("1 file was modified")
     log("file: " + files[0])
   else:
