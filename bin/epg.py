@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import os
 import json
 import gzip
 import shutil
@@ -9,7 +10,7 @@ import subprocess
 from operator import attrgetter
 from random import randint
 import xml.etree.ElementTree as et
-
+from helper import *
 
 def get_map():
   log("Getting channels map")
