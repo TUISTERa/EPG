@@ -58,6 +58,7 @@ log("Generating EPG endeded")
 if commitEnabled:
   ### Push local changes
   log("Pushing local changes")
+  log(repo.diff(None, name_only=True))
   files = repo.diff(None, name_only=True).split('\n')
   l = len(files)
   if l == 0:
@@ -68,11 +69,10 @@ if commitEnabled:
   else:
     log("%s files were modified" % l)
 
-  if l > 0:
+  if l > 0 and files[0] != "":
     for f in files:
-      if f != "":
-        log("Executing 'git add %s'" % f)
-        repo.add(f)
+      log("Executing 'git add %s'" % f)
+      repo.add(f)
 
     commitmsg = "Updating EPG"
     log("Executing 'git commit -m '%s'" % commitmsg)
