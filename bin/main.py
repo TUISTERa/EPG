@@ -58,7 +58,6 @@ log("Generating EPG endeded")
 if commitEnabled:
   ### Push local changes
   log("Pushing local changes")
-  log(repo.diff(None, name_only=True))
   files = repo.diff(None, name_only=True).split('\n')
   l = len(files)
   if l == 0:
