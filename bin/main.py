@@ -30,9 +30,14 @@ with open(wgexeconfig, 'w') as w:
 
 log("Generating wgmulti.exe.config finished!")
 
-if len(sys.argv) > 1 and sys.argv[1] == "-n":
-  commitEnabled = False
-  log("Running with option -n --commit-disabled")
+if len(sys.argv) > 1:
+  if "-n" in sys.argv:
+    commitEnabled = False
+    log("Running with option -n: commit disabled")
+
+  if "-d" in sys.argv:
+    grabbingEnabled = False
+    log("Running with option -d: demo mode, grabbing disabled")
 
 ### Pull online changes
 if commitEnabled:
@@ -42,18 +47,22 @@ if commitEnabled:
   log("Updating files finished")
 
 ### Generate EPG
-log("Generating EPG started")
-#epg.generate_config()
-epg.grab()
-epg.queryimdb()
-epg.remove_tags()
-epg.hash()
-epg.zip(final_epg_file)
-exported_files = epg.export_other_epgs()
-for file in exported_files:
- log("zipping file %s" % file)
- epg.zip(file)
-log("Generating EPG endeded")
+if grabbingEnabled:
+  log("Generating EPG started")
+  #epg.generate_config()
+  epg.grab()
+  epg.queryimdb()
+  epg.remove_tags()
+  epg.hash()
+  epg.zip(final_epg_file)
+  exported_files = epg.export_other_epgs()
+  for file in exported_files:
+    log("zipping file %s" % file)
+    epg.zip(file)
+  log("Generating EPG endeded")
+
+else:
+  log("Grabbing disabled. Skipping it.")
 
 if commitEnabled:
   ### Push local changes
@@ -81,4 +90,3 @@ if commitEnabled:
     repo.push()
 
 log("Exiting!")
-  

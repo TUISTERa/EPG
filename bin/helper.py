@@ -19,6 +19,7 @@ final_epg_file = os.path.join(gitdir, "epg.xml")
 config_file    = os.path.join(configdir, "wgmulti.config.json")
 
 commitEnabled  = True
+grabbingEnabled = True
 
 if not os.path.exists(logdir):
   os.makedirs(logdir)
