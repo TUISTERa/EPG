@@ -17,10 +17,6 @@
     {
       "siteinis": [
         {
-          "site_id": "1p1-ua",
-          "name": "ExUSSR"
-        },
-        {
           "site_id": "/1plus1",
           "name": "tv.i.ua"
         },
@@ -36,10 +32,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "13thStreet.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "112/13th-street",
           "name": "klack.de"
@@ -54,19 +47,9 @@
       "name": "13th Street",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "2+2 (Укр)",
-      "enabled": false,
-      "name": "2+2 (Укр)",
-      "update": "i"
-    },
+
     {
       "siteinis": [
-        {
-          "site_id": "24dok",
-          "name": "ExUSSR"
-        },
         {
           "site_id": "149",
           "name": "ntvplus.ru"
@@ -86,30 +69,16 @@
         {
           "site_id": "1399",
           "name": "tv.mail.ru"
-        },
-        {
-          "site_id": "100023",
-          "name": "Teleguide"
         }
       ],
       "xmltv_id": "24 Doc",
       "enabled": true,
       "name": "24 Doc",
       "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "24 Horas",
-      "enabled": true,
-      "name": "24 Horas",
-      "update": "i"
-    },
+    }
     {
       "siteinis": [
-        {
-          "site_id": "24Kitchen.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "24kitchen",
           "name": "24kitchen.bg"
@@ -139,10 +108,6 @@
     {
       "siteinis": [
         {
-          "site_id": "24texno",
-          "name": "ExUSSR"
-        },
-        {
           "site_id": "texno-24",
           "name": "tviz.tv"
         },
@@ -165,10 +130,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "3sat.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "3SAT",
           "name": "m.tvtoday.de"
@@ -233,10 +195,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ABMoteurs.fr",
-          "name": "FRMixte"
-        },
+        
         {
           "site_id": "ab-moteurs_CNT0000008o0DI.html",
           "name": "tv.orange.fr"
@@ -289,10 +248,7 @@
           "site_id": "10",
           "name": "novaguide_en.gr"
         },
-        {
-          "site_id": "ANT1.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "ant1",
           "name": "cosmote.gr"
@@ -305,10 +261,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ARD.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "29438503017",
           "name": "horizon.tv.de"
@@ -337,10 +290,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "APT.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "art",
           "name": "cosmote.gr"
@@ -353,10 +303,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ARTE.fr",
-          "name": "FRTNTBasic"
-        },
+        
         {
           "site_id": "arte,111",
           "name": "telerama.fr"
@@ -461,10 +408,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "AXN.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "epg/serviceepg.php?service=AXN.xml",
           "name": "tv.etcc.bg"
@@ -516,13 +460,6 @@
       "update": "i"
     },
     {
-      "siteinis": [],
-      "xmltv_id": "Abant TV",
-      "enabled": false,
-      "name": "Abant TV",
-      "update": "i"
-    },
-    {
       "siteinis": [
         {
           "site_id": "7,actionplus",
@@ -555,18 +492,8 @@
       "update": "i"
     },
     {
-      "siteinis": [],
-      "xmltv_id": "Akilli TV",
-      "enabled": false,
-      "name": "Akilli TV",
-      "update": "i"
-    },
-    {
       "siteinis": [
-        {
-          "site_id": "AlJazeeraBalkans.hr",
-          "name": "YUBasic"
-        },
+        
         {
           "site_id": "al-jazeera-balkans",
           "name": "sbb.rs"
@@ -583,10 +510,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "AlJazeera.nws",
-          "name": "News"
-        },
+        
         {
           "site_id": "121",
           "name": "zingzing.tv"
@@ -611,10 +535,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "AlfaOmegaTV.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "163",
           "name": "program24.ro"
@@ -627,10 +548,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "AlfaTV.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "204",
           "name": "tv.dir.bg"
@@ -641,19 +559,10 @@
       "name": "Alfa TV",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Algerie 3",
-      "enabled": true,
-      "name": "Algerie 3",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "AlJazeera.nws",
-          "name": "News"
-        },
+        
         {
           "site_id": "121",
           "name": "zingzing.tv"
@@ -682,10 +591,7 @@
           "site_id": "4",
           "name": "novaguide_en.gr"
         },
-        {
-          "site_id": "alpha.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "alpha",
           "name": "cosmote.gr"
@@ -698,10 +604,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "AnimalPlanet.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "61",
           "name": "dnes.bg"
@@ -714,14 +617,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Anixe.de",
-          "name": "DEBasic"
-        },
-        {
-          "site_id": "AnixeHD.de",
-          "name": "DECommon"
-        },
+        
+        
         {
           "site_id": "ANIXE",
           "name": "m.tvtoday.de"
@@ -738,10 +635,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport1.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "179/arena-sport-1",
           "name": "mojtv.hr"
@@ -758,10 +652,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport1.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "1",
           "name": "tvarenasport.com"
@@ -778,10 +669,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport2.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "180/arena-sport-2",
           "name": "mojtv.hr"
@@ -798,10 +686,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport2.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "2",
           "name": "tvarenasport.com"
@@ -818,10 +703,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport3.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "253/arena-sport-3",
           "name": "mojtv.hr"
@@ -838,10 +720,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport3.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "3",
           "name": "tvarenasport.com"
@@ -858,10 +737,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport4.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "264/arena-sport-4",
           "name": "mojtv.hr"
@@ -878,10 +754,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport4.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "4",
           "name": "tvarenasport.com"
@@ -898,10 +771,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport5.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "460/arena-sport-5",
           "name": "mojtv.hr"
@@ -918,10 +788,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport5.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "5",
           "name": "tvarenasport.com"
@@ -934,10 +801,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArenaSport6.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "6",
           "name": "tvarenasport.com"
@@ -950,10 +814,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ArirangTv.kr",
-          "name": "News"
-        },
+        
         {
           "site_id": "Arirang",
           "name": "tv.sms.cz.m"
@@ -1002,10 +863,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ARTE.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "ARTE",
           "name": "m.tvtoday.de"
@@ -1040,20 +898,8 @@
       "name": "Auto Motor Sport",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Automoto IT",
-      "enabled": false,
-      "name": "Automoto IT",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "B1B Action",
-      "enabled": true,
-      "name": "B1B Action",
-      "update": "i"
-    },
+    
+    
     {
       "siteinis": [
         {
@@ -1068,10 +914,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "B4UMusic.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "5708",
           "name": "uk-sky.com"
@@ -1084,10 +927,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "B92.rs",
-          "name": "YUBasic"
-        },
+        
         {
           "site_id": "b92",
           "name": "sbb.rs"
@@ -1106,27 +946,7 @@
       "name": "B92",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "BBC 1",
-      "enabled": false,
-      "name": "BBC 1",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "BBC 2",
-      "enabled": false,
-      "name": "BBC 2",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "BBC 3",
-      "enabled": false,
-      "name": "BBC 3",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -1166,18 +986,6 @@
     {
       "siteinis": [
         {
-          "site_id": "BBCWorldNews.nws",
-          "name": "News"
-        },
-        {
-          "site_id": "bbc-world",
-          "name": "ExUSSR"
-        },
-        {
-          "site_id": "BBCWorld.ro",
-          "name": "ROBasic"
-        },
-        {
           "site_id": "66",
           "name": "m.tvguide.co.uk-full"
         },
@@ -1197,10 +1005,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "BFM.fr",
-          "name": "FRTNTBasic"
-        },
+        
         {
           "site_id": "bfm-tv,481",
           "name": "telerama.fr"
@@ -1217,23 +1022,14 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "bgdnes",
-          "name": "constantepg.kodibg.org"
-        }
+        
       ],
       "xmltv_id": "BG DNES",
       "enabled": true,
       "name": "BG DNES",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "BG Info",
-      "enabled": false,
-      "name": "BG Info",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -1252,10 +1048,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Hobbylov.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "hobbylov",
           "name": "hobbytv.bg"
@@ -1288,10 +1081,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "BNMusic.ba",
-          "name": "YUBasic"
-        },
+        
         {
           "site_id": "Channel:bn-music,Nr:190",
           "name": "tvportal.rs"
@@ -1308,10 +1098,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "BNTWorld.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "bntworld",
           "name": "bnt.bg"
@@ -1356,10 +1143,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "BTSportEur.uk",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "3661",
           "name": "uk-sky.com"
@@ -1400,10 +1184,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Balkanika.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11122",
           "name": "dnes.bg"
@@ -1520,14 +1301,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Bloomberg.nws",
-          "name": "News"
-        },
-        {
-          "site_id": "bloomberg",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "112",
           "name": "m.tvguide.co.uk-full"
@@ -1560,10 +1334,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "BodyInBalance.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "149/body-in-balance",
           "name": "mojtv.hr"
@@ -1576,14 +1347,6 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Boomerang.de",
-          "name": "DECommon"
-        },
-        {
-          "site_id": "boomerang",
-          "name": "ExUSSR"
-        },
         {
           "site_id": "52",
           "name": "novaguide_en.gr"
@@ -1616,10 +1379,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "StingrayBrava.fr",
-          "name": "FRMixte"
-        },
+        
         {
           "site_id": "476/brava-hd",
           "name": "mojtv.hr"
@@ -1632,10 +1392,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Brazzers.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "/program-tv/brazzers-tv-europe-279",
           "name": "programtv.onet.pl"
@@ -1652,10 +1409,6 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "bridge",
-          "name": "ExUSSR"
-        },
         {
           "site_id": "/bridge-tv",
           "name": "tv.i.ua"
@@ -1710,90 +1463,7 @@
       "name": "Bulgaria on Air",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More First",
-      "enabled": true,
-      "name": "C More First",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Fotboll",
-      "enabled": true,
-      "name": "C More Fotboll",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Hits",
-      "enabled": true,
-      "name": "C More Hits",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Hockey",
-      "enabled": true,
-      "name": "C More Hockey",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Live",
-      "enabled": true,
-      "name": "C More Live",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Live 1",
-      "enabled": true,
-      "name": "C More Live 1",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Live 2",
-      "enabled": true,
-      "name": "C More Live 2",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Live 3",
-      "enabled": true,
-      "name": "C More Live 3",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Live 4",
-      "enabled": true,
-      "name": "C More Live 4",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Sport",
-      "enabled": true,
-      "name": "C More Sport",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C More Stars",
-      "enabled": true,
-      "name": "C More Stars",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "C Music",
-      "enabled": true,
-      "name": "C Music",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -1814,13 +1484,7 @@
       "name": "C&I Networks",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "CBC Sport",
-      "enabled": true,
-      "name": "CBC Sport",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -1871,10 +1535,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "CGTNDoco.cn",
-          "name": "News"
-        },
+        
         {
           "site_id": "5211",
           "name": "singteltv.com.sg"
@@ -1895,10 +1556,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "CGTNFrancais.cn",
-          "name": "News"
-        },
+        
         {
           "site_id": "581740583439",
           "name": "horizon.tv.fr"
@@ -1935,10 +1593,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "CGTN.cn",
-          "name": "News"
-        },
+        
         {
           "site_id": "2010",
           "name": "tv.mail.ru"
@@ -1951,10 +1606,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "CNBC",
-          "name": "News"
-        },
+        
         {
           "site_id": "CNBC+Europe",
           "name": "tv.sms.cz.m"
@@ -1979,10 +1631,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "CNN.nws",
-          "name": "News"
-        },
+        
         {
           "site_id": "11091",
           "name": "dnes.bg"
@@ -2027,10 +1676,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Colors.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "3714",
           "name": "uk-sky.com"
@@ -2043,10 +1689,6 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "sts-int",
-          "name": "ExUSSR"
-        },
         {
           "site_id": "913",
           "name": "tv.mail.ru"
@@ -2079,10 +1721,6 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "CN.bg",
-          "name": "BGBasic"
-        },
         {
           "site_id": "CartoonNetwork/62",
           "name": "tv.boxbg.net"
@@ -2118,10 +1756,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Channel4.uk",
-          "name": "UKBasic"
-        },
+        
         {
           "site_id": "1621",
           "name": "uk-sky.com"
@@ -2135,10 +1770,6 @@
     {
       "siteinis": [
         {
-          "site_id": "ChartshowHits.uk",
-          "name": "UKFTA"
-        },
-        {
           "site_id": "852",
           "name": "tvguide.co.uk"
         }
@@ -2150,10 +1781,6 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ChartShowTV.uk",
-          "name": "UKFTA"
-        },
         {
           "site_id": "123",
           "name": "tvguide.co.uk"
@@ -2185,20 +1812,6 @@
       "update": "i"
     },
     {
-      "siteinis": [],
-      "xmltv_id": "Chelsea TV UK",
-      "enabled": true,
-      "name": "Chelsea TV UK",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Cinema MAX",
-      "enabled": false,
-      "name": "Cinema MAX",
-      "update": "i"
-    },
-    {
       "siteinis": [
         {
           "site_id": "6,cinemaplus",
@@ -2220,10 +1833,7 @@
           "site_id": "index_cinemax",
           "name": "hbo.bg"
         },
-        {
-          "site_id": "Cnemax",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "118_cinemax",
           "name": "dnevnik.bg"
@@ -2239,10 +1849,6 @@
         {
           "site_id": "index_cinemax2",
           "name": "hbo.bg"
-        },
-        {
-          "site_id": "Cinemax2.bg",
-          "name": "BGBasic"
         }
       ],
       "xmltv_id": "Cinemax 2",
@@ -2259,10 +1865,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "CityTV.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "222",
           "name": "tv.dir.bg"
@@ -2283,10 +1886,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Classica.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "classica",
           "name": "tvmovie.de"
@@ -2301,13 +1901,7 @@
       "name": "Classica",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Classical Harmony",
-      "enabled": true,
-      "name": "Classical Harmony",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -2324,19 +1918,10 @@
       "name": "Club RTL",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "CodeFashion TV",
-      "enabled": true,
-      "name": "CodeFashion TV",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "ComedyCentral.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "271",
           "name": "tv.dir.bg"
@@ -2433,10 +2018,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DivaUniversal.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "552441895214",
           "name": "horizon.tv.ro"
@@ -2449,14 +2031,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DMSat.bg",
-          "name": "BGBasic"
-        },
-        {
-          "site_id": "DMSAT.rs",
-          "name": "YUBasic"
-        },
+        
+        
         {
           "site_id": "113",
           "name": "telekom.mk"
@@ -2473,14 +2049,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DMax.de",
-          "name": "DEBasic"
-        },
-        {
-          "site_id": "DMAX.ch",
-          "name": "DECommon"
-        },
+        
+        
         {
           "site_id": "DMAX",
           "name": "tvtoday.de"
@@ -2497,10 +2067,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DMAX.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "8129",
           "name": "movietele.it"
@@ -2513,10 +2080,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "dstv",
-          "name": "constantepg.kodibg.org"
-        },
+        
         {
           "site_id": "130",
           "name": "potv.bg"
@@ -2573,10 +2137,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DeLuxeMusic.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "Deluxe+Music",
           "name": "tv.sms.cz.m"
@@ -2601,10 +2162,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DeutscheWelleEN.de",
-          "name": "News"
-        },
+        
         {
           "site_id": "PL/pol_627525671347",
           "name": "horizon.tv"
@@ -2657,10 +2215,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DiemaFamily.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "2",
           "name": "nova.bg"
@@ -2721,10 +2276,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DigiSport1.ro",
-          "name": "ROSportsMovies"
-        },
+        
         {
           "site_id": "125",
           "name": "program24.ro"
@@ -2741,10 +2293,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DigiSport2.ro",
-          "name": "ROSportsMovies"
-        },
+        
         {
           "site_id": "126",
           "name": "program24.ro"
@@ -2761,10 +2310,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DigiSport3.ro",
-          "name": "ROSportsMovies"
-        },
+        
         {
           "site_id": "144",
           "name": "program24.ro"
@@ -2781,10 +2327,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DigiSport4.ro",
-          "name": "ROSportsMovies"
-        },
+        
         {
           "site_id": "345",
           "name": "program24.ro"
@@ -2801,10 +2344,7 @@
           "site_id": "56",
           "name": "dnes.bg"
         },
-        {
-          "site_id": "DiscoveryChannel.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "18",
           "name": "potv.bg"
@@ -2817,10 +2357,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DiscoveryHD.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "83",
           "name": "sky.de"
@@ -2889,10 +2426,7 @@
           "site_id": "",
           "name": "disney.bg"
         },
-        {
-          "site_id": "Disney.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "185",
           "name": "tv.dir.bg"
@@ -2909,10 +2443,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DisneyCinemagic.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "Disney-Cinemagic,13868",
           "name": "prisma.de"
@@ -2937,10 +2468,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "disneychannel.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "Disney-Channel,13919",
           "name": "prisma.de"
@@ -2953,18 +2481,9 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DisneyJunior.bg",
-          "name": "BGBasic"
-        },
-        {
-          "site_id": "DisneyJunior.uk",
-          "name": "UKSkyDead"
-        },
-        {
-          "site_id": "DisneyJunior.de",
-          "name": "DECommon"
-        },
+        
+        
+        
         {
           "site_id": "248",
           "name": "tv.dir.bg"
@@ -3017,14 +2536,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DJAZZ.tv",
-          "name": "BLBasic"
-        },
-        {
-          "site_id": "StingrayDjazz.fr",
-          "name": "FRMixte"
-        },
+        
+        
         {
           "site_id": "475/djazztv",
           "name": "mojtv.hr"
@@ -3037,10 +2550,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "docubox-hd",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "/program-tv/docubox-hd-175",
           "name": "programtv.onet.pl"
@@ -3053,10 +2563,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Dorcel.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "/program-tv/dorcel-tv-507",
           "name": "programtv.onet.pl"
@@ -3069,10 +2576,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DorcelXXX.ero",
-          "name": "Ero"
-        }
+        
       ],
       "xmltv_id": "Dorcel XXX",
       "enabled": true,
@@ -3109,10 +2613,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DuckTV.day",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "144/duck-tv",
           "name": "mojtv.hr"
@@ -3129,14 +2630,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "DuskTV.ero",
-          "name": "Ero"
-        },
-        {
-          "site_id": "dusk",
-          "name": "megaepg.kodibg.org"
-        },
+        
         {
           "site_id": "Channel:Dusk,Nr:236",
           "name": "tvportal.rs"
@@ -3153,10 +2647,7 @@
           "site_id": "73",
           "name": "novaguide_en.gr"
         },
-        {
-          "site_id": "ETV.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "epsilon-tv",
           "name": "cosmote.gr"
@@ -3189,10 +2680,7 @@
           "site_id": "20",
           "name": "novaguide_en.gr"
         },
-        {
-          "site_id": "EPT1.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "Ert1/index.asp?id=9",
           "name": "ert.gr"
@@ -3213,10 +2701,7 @@
           "site_id": "77",
           "name": "novaguide_en.gr"
         },
-        {
-          "site_id": "EPT2.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "Ert1/index.asp?id=49",
           "name": "ert.gr"
@@ -3237,10 +2722,7 @@
           "site_id": "79",
           "name": "novaguide_en.gr"
         },
-        {
-          "site_id": "EPT3.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "ErtWorld/index.asp?id=10",
           "name": "ert.gr"
@@ -3345,10 +2827,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "EroxHD.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "/program-tv/erox-hd-520",
           "name": "programtv.onet.pl"
@@ -3361,10 +2840,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Eroxxx.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "/program-tv/eroxxx-hd-512",
           "name": "programtv.onet.pl"
@@ -3384,10 +2860,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "EtnoTV.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "552441895277",
           "name": "horizon.tv.ro"
@@ -3422,19 +2895,10 @@
       "name": "Euro Star",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Eurochannel",
-      "enabled": false,
-      "name": "Eurochannel",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "Euronews.nws",
-          "name": "News"
-        },
+        
         {
           "site_id": "302",
           "name": "engin.tv"
@@ -3463,10 +2927,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Eurosport.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11155",
           "name": "dnes.bg"
@@ -3483,10 +2944,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Eurosport2.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11123",
           "name": "dnes.bg"
@@ -3564,10 +3022,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Eurosport1.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "1609",
           "name": "engin.tv"
@@ -3584,10 +3039,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "EvilAngel.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "AT/deu_715560999399",
           "name": "horizon.tv"
@@ -3600,14 +3052,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ExtremeSports.uk",
-          "name": "UKSportsMovies"
-        },
-        {
-          "site_id": "ExtremeSports.de",
-          "name": "DECommon"
-        },
+        
+        
         {
           "site_id": "92",
           "name": "program24.ro"
@@ -3694,10 +3140,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "FANTV.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "epg/serviceepg.php?service=Fan%20TV.xml",
           "name": "tv.etcc.bg"
@@ -3718,10 +3161,7 @@
           "site_id": "foxtv.bg/event/16",
           "name": "natgeofoxtv.bg"
         },
-        {
-          "site_id": "FOX.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11092",
           "name": "dnes.bg"
@@ -3734,10 +3174,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Fox.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "41",
           "name": "m.tele.at"
@@ -3762,10 +3199,7 @@
           "site_id": "foxtv.bg/event/17",
           "name": "natgeofoxtv.bg"
         },
-        {
-          "site_id": "FOXCrime.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "176",
           "name": "dnes.bg"
@@ -3782,10 +3216,7 @@
           "site_id": "foxtv.bg/event/18",
           "name": "natgeofoxtv.bg"
         },
-        {
-          "site_id": "FOXLife.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "36",
           "name": "dnes.bg"
@@ -4089,10 +3520,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Fightbox.svn",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "/program-tv/fightbox-hd-453",
           "name": "programtv.onet.pl"
@@ -4113,10 +3541,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "FilmPlus.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "epg/serviceepg.php?service=Film%20Plus.xml",
           "name": "tv.etcc.bg"
@@ -4277,10 +3702,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "FineLiving.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "epg/serviceepg.php?service=Fine%20Living%20Network.xml",
           "name": "tv.etcc.bg"
@@ -4301,10 +3723,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "FLN.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "552441895182",
           "name": "horizon.tv.ro"
@@ -4337,10 +3756,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "FixFoxi.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "DE/deu_29438503129",
           "name": "horizon.tv"
@@ -4381,10 +3797,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Flava.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "569",
           "name": "tvguide.co.uk"
@@ -4425,10 +3838,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "FranceO.fr",
-          "name": "FRTNTBasic"
-        },
+        
         {
           "site_id": "france-o_CNT0000008o0m0.html",
           "name": "tv.orange.fr"
@@ -4449,10 +3859,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "France2.fr",
-          "name": "FRTNTBasic"
-        },
+        
         {
           "site_id": "france-2,4",
           "name": "telerama.fr"
@@ -4473,10 +3880,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "France24.fr",
-          "name": "News"
-        },
+        
         {
           "site_id": "834",
           "name": "tvguide.co.uk"
@@ -4505,10 +3909,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "France24fr.fr",
-          "name": "News"
-        },
+        
         {
           "site_id": "france-24,529",
           "name": "telerama.fr"
@@ -4529,10 +3930,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "France3.fr",
-          "name": "FRTNTBasic"
-        },
+        
         {
           "site_id": "france-3,80",
           "name": "telerama.fr"
@@ -4553,10 +3951,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "France4.fr",
-          "name": "FRTNTBasic"
-        },
+        
         {
           "site_id": "france-4,78",
           "name": "telerama.fr"
@@ -4577,10 +3972,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "France5.fr",
-          "name": "FRTNTBasic"
-        },
+        
         {
           "site_id": "france-5,47",
           "name": "telerama.fr"
@@ -4626,20 +4018,7 @@
       "name": "GO TV",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "GTV Guneydogu TV",
-      "enabled": false,
-      "name": "GTV Guneydogu TV",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Gala 2 (test)",
-      "enabled": false,
-      "name": "Gala 2 (test)",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -4656,13 +4035,7 @@
       "name": "Grand",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Grand 2",
-      "enabled": true,
-      "name": "Grand 2",
-      "update": "i"
-    },
+   
     {
       "name": "HBO",
       "enabled": true,
@@ -4672,10 +4045,7 @@
           "site_id": "index_hbo",
           "name": "hbo.bg"
         },
-        {
-          "site_id": "HBO.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "130_hbo",
           "name": "dnevnik.bg"
@@ -4697,10 +4067,7 @@
           "site_id": "index_hbo2",
           "name": "hbo.bg"
         },
-        {
-          "site_id": "HBO2.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "289_hbo_2",
           "name": "dnevnik.bg"
@@ -4717,10 +4084,7 @@
           "site_id": "index_hbo3",
           "name": "hbo.bg"
         },
-        {
-          "site_id": "HBO3.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "290_hbo3",
           "name": "dnevnik.bg"
@@ -4853,10 +4217,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "HayatMusic.ba",
-          "name": "YUBasic"
-        },
+        
         {
           "site_id": "193",
           "name": "telekom.mk"
@@ -4881,10 +4242,7 @@
           "site_id": "history",
           "name": "megaepg.kodibg.org"
         },
-        {
-          "site_id": "HistoryChannel.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "epg/serviceepg.php?service=History%20Channel.xml",
           "name": "tv.etcc.bg"
@@ -4941,10 +4299,7 @@
           "site_id": "hobbyhd",
           "name": "hobbytv.bg"
         },
-        {
-          "site_id": "HobbyHD.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "epg/serviceepg.php?service=Hobby%20TV%20HD.xml",
           "name": "tv.etcc.bg"
@@ -4981,10 +4336,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "HustlerHD.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "/program-tv/hustler-hd-138",
           "name": "programtv.onet.pl"
@@ -5005,10 +4357,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "HustlerTV.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "/program-tv/hustler-tv-107",
           "name": "programtv.onet.pl"
@@ -5041,10 +4390,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ID.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "165",
           "name": "potv.bg"
@@ -5059,33 +4405,10 @@
       "name": "ID Xtra",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "IT Sky Calcio",
-      "enabled": false,
-      "name": "IT Sky Calcio",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "IT Sky Cinema Uno",
-      "enabled": false,
-      "name": "IT Sky Cinema Uno",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "IT Sky Sport 1",
-      "enabled": false,
-      "name": "IT Sky Sport 1",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "ITV1London.uk",
-          "name": "UKBasic"
-        },
+        
         {
           "site_id": "6000",
           "name": "uk-sky.com"
@@ -5102,10 +4425,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ITV2.uk",
-          "name": "UKBasic"
-        },
+        
         {
           "site_id": "180",
           "name": "m.tvguide.co.uk-index"
@@ -5130,10 +4450,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ITV3.uk",
-          "name": "UKBasic"
-        },
+        
         {
           "site_id": "360",
           "name": "m.tvguide.co.uk-index"
@@ -5156,13 +4473,7 @@
       "name": "ITV 3",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "ITV 4",
-      "enabled": false,
-      "name": "ITV 4",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -5175,13 +4486,7 @@
       "name": "InLife",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Inedit TV",
-      "enabled": false,
-      "name": "Inedit TV",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -5214,19 +4519,10 @@
       "name": "Jim Jam",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Jugoton",
-      "enabled": true,
-      "name": "Jugoton",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "Jukebox.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "452",
           "name": "sky.de"
@@ -5266,10 +4562,7 @@
       "enabled": true,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "Kix.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "4262",
           "name": "tv.sky.com"
@@ -5299,10 +4592,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Kabel.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "29438503100",
           "name": "horizon.tv.de"
@@ -5317,27 +4607,7 @@
       "name": "Kabel Eins",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Kanal 26 TR",
-      "enabled": true,
-      "name": "Kanal 26 TR",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Kanal 3",
-      "enabled": true,
-      "name": "Kanal 3",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Kanal 5",
-      "enabled": false,
-      "name": "Kanal 5",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -5392,10 +4662,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "KanalD.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "80",
           "name": "program24.ro"
@@ -5422,13 +4689,7 @@
       "name": "Kanal t",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Kardelen",
-      "enabled": true,
-      "name": "Kardelen",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -5459,10 +4720,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Kerrang.uk",
-          "name": "UKInt"
-        },
+        
         {
           "site_id": "1853",
           "name": "uk-sky.com"
@@ -5475,10 +4733,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Kika.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "KiKa,647429",
           "name": "prisma.de"
@@ -5535,10 +4790,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "KissTV.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "552441895220",
           "name": "horizon.tv.ro"
@@ -5605,13 +4857,7 @@
       "name": "LA 5",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "LIG TV 4",
-      "enabled": true,
-      "name": "LIG TV 4",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -5688,20 +4934,7 @@
       "name": "Landscape",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Liverpool FC TV UK",
-      "enabled": true,
-      "name": "Liverpool FC TV UK",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Looney Toons",
-      "enabled": true,
-      "name": "Looney Toons",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -5732,10 +4965,7 @@
           "site_id": "21",
           "name": "novaguide_en.gr"
         },
-        {
-          "site_id": "Macedonia.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "makedonia-tv",
           "name": "cosmote.gr"
@@ -5845,13 +5075,7 @@
       "name": "MAX Sport 4",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "MCM Top",
-      "enabled": true,
-      "name": "MCM Top",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -5957,10 +5181,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "MTVHits.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "/program-tv/mtv-hits-476",
           "name": "programtv.onet.pl"
@@ -6005,10 +5226,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "MagicTV.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "222",
           "name": "tv.dir.bg"
@@ -6033,10 +5251,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Magic.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "1877",
           "name": "uk-sky.com"
@@ -6072,10 +5287,7 @@
           "site_id": "9",
           "name": "novaguide_en.gr"
         },
-        {
-          "site_id": "mega.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "mega",
           "name": "cosmote.gr"
@@ -6088,10 +5300,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Mezzo.fr",
-          "name": "FRBECommon"
-        },
+        
         {
           "site_id": "74",
           "name": "novaguide_en.gr"
@@ -6108,10 +5317,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "MezzoLiveHD.fr",
-          "name": "FRMixte"
-        },
+        
         {
           "site_id": "213",
           "name": "program24.ro"
@@ -6154,13 +5360,7 @@
       "name": "Minika Cocuk",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Mooz Dance",
-      "enabled": true,
-      "name": "Mooz Dance",
-      "update": "i"
-    },
+  
     {
       "siteinis": [
         {
@@ -6258,10 +5458,7 @@
       "enabled": false,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "Movies4Men.uk",
-          "name": "UKBasic"
-        },
+        
         {
           "site_id": "500",
           "name": "tvguide.co.uk"
@@ -6309,13 +5506,7 @@
       "name": "Movistar Deportes 1",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Movistar Deportes 2",
-      "enabled": true,
-      "name": "Movistar Deportes 2",
-      "update": "i"
-    },
+  
     {
       "siteinis": [
         {
@@ -6340,13 +5531,7 @@
       "name": "Movistar F1",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Movistar Futbol",
-      "enabled": true,
-      "name": "Movistar Futbol",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -6406,14 +5591,6 @@
     {
       "siteinis": [
         {
-          "site_id": "mbu",
-          "name": "ExUSSR"
-        },
-        {
-          "site_id": "mbu-ua",
-          "name": "ExUSSR"
-        },
-        {
           "site_id": "/music-box-ua",
           "name": "tv.i.ua"
         }
@@ -6425,10 +5602,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "mb-russia",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "229",
           "name": "kartina.tv"
@@ -6445,10 +5619,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ntv.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "68/n-tv",
           "name": "klack.de"
@@ -6461,10 +5632,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "n24.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "465354791385",
           "name": "horizon.tv.de"
@@ -6496,10 +5664,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "N24Doku.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "N24DOKU",
           "name": "m.tvtoday.de"
@@ -6516,10 +5681,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "NHKworld.pl",
-          "name": "News"
-        },
+        
         {
           "site_id": "NHK+World+TV",
           "name": "tv.sms.cz.m"
@@ -6544,27 +5706,6 @@
       "xmltv_id": "NHK World",
       "enabled": true,
       "name": "NHK World",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "NO: TV 2 Sportskanalen",
-      "enabled": true,
-      "name": "NO: TV 2 Sportskanalen",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "NO: TV2 Sport Premium 1",
-      "enabled": false,
-      "name": "NO: TV2 Sport Premium 1",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "NO: TV2 Sport Premium 2",
-      "enabled": false,
-      "name": "NO: TV2 Sport Premium 2",
       "update": "i"
     },
     {
@@ -6733,14 +5874,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "NatGeoHD.de",
-          "name": "DECommon"
-        },
-        {
-          "site_id": "NatGeo.de",
-          "name": "DECommon"
-        },
+        
+        
         {
           "site_id": "62",
           "name": "m.tele.at"
@@ -6757,10 +5892,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "NGWild.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "natgeotv.com/bg/event/54",
           "name": "natgeofoxtv.bg"
@@ -6777,10 +5909,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "NatGeoWild.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "73",
           "name": "m.tele.at"
@@ -6797,10 +5926,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "NGC.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "natgeotv.com/bg/event/15",
           "name": "natgeofoxtv.bg"
@@ -6817,10 +5943,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Nick Jr.",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "Nick+Jr.",
           "name": "tv.sms.cz.m"
@@ -6860,10 +5983,7 @@
       "enabled": true,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "NOVA.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "42",
           "name": "dnes.bg"
@@ -6913,10 +6033,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "NOVAsport.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "4",
           "name": "nova.bg"
@@ -6968,10 +6085,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ORF1.at",
-          "name": "ATBasic"
-        },
+        
         {
           "site_id": "ORF1",
           "name": "m.tvtoday.de"
@@ -6996,10 +6110,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ORF2.at",
-          "name": "ATBasic"
-        },
+        
         {
           "site_id": "ORF2",
           "name": "m.tvtoday.de"
@@ -7022,68 +6133,13 @@
       "name": "ORF2",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Ote Sport 1",
-      "enabled": false,
-      "name": "Ote Sport 1",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Ote Sport 2",
-      "enabled": false,
-      "name": "Ote Sport 2",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Ote Sport 3",
-      "enabled": false,
-      "name": "Ote Sport 3",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Ote Sport 5",
-      "enabled": false,
-      "name": "Ote Sport 5",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Ote Sport 6",
-      "enabled": false,
-      "name": "Ote Sport 6",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Ote Sport 7",
-      "enabled": false,
-      "name": "Ote Sport 7",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Ote Sport 8",
-      "enabled": false,
-      "name": "Ote Sport 8",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "outdoor",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "1296",
           "name": "tv.mail.ru"
-        },
-        {
-          "site_id": "1617",
-          "name": "Teleguide"
         }
       ],
       "xmltv_id": "OutDoor",
@@ -7108,10 +6164,7 @@
       "enabled": true,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "pop.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "3750",
           "name": "tv.sky.com"
@@ -7127,61 +6180,10 @@
       ],
       "xmltv_id": "POP"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "PPV 1 (demo)",
-      "enabled": true,
-      "name": "PPV 1 (demo)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "PPV 2 (demo)",
-      "enabled": true,
-      "name": "PPV 2 (demo)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "PPV 3 (demo)",
-      "enabled": true,
-      "name": "PPV 3 (demo)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "PPV 4 (demo)",
-      "enabled": true,
-      "name": "PPV 4 (demo)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "PPV 5 (demo)",
-      "enabled": true,
-      "name": "PPV 5 (demo)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "PPV 6 (demo)",
-      "enabled": true,
-      "name": "PPV 6 (demo)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "PPV Info",
-      "enabled": false,
-      "name": "PPV Info",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "Pro7.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "PRO7",
           "name": "m.tvtoday.de"
@@ -7206,29 +6208,17 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PassieXXX.ero",
-          "name": "Ero"
-        }
+        
       ],
       "xmltv_id": "Passion XXX",
       "enabled": true,
       "name": "Passion XXX",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Penhouse2",
-      "enabled": false,
-      "name": "Penhouse2",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "PenthouseHD1.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "penthouse-hd-1_CNT0000008o0pM.html",
           "name": "tv.orange.fr"
@@ -7247,19 +6237,10 @@
       "name": "Penthouse HD1",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Penthouse2",
-      "enabled": false,
-      "name": "Penthouse2",
-      "update": "i"
-    },
+  
     {
       "siteinis": [
-        {
-          "site_id": "phoenix.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "PHOEN",
           "name": "m.tvtoday.de"
@@ -7296,10 +6277,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Pink2.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "pink-2",
           "name": "sbb.rs"
@@ -7320,10 +6298,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Pink3.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "pink-3",
           "name": "sbb.rs"
@@ -7344,10 +6319,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkAction.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "pink-action",
           "name": "sbb.rs"
@@ -7364,10 +6336,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkComedy.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Comedy",
           "name": "mts.rs"
@@ -7384,10 +6353,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkCrime.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Crime & Mistery",
           "name": "mts.rs"
@@ -7428,10 +6394,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkFamily.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "pink-family",
           "name": "sbb.rs"
@@ -7448,10 +6411,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkFilm.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "pink-film",
           "name": "sbb.rs"
@@ -7496,10 +6456,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkFolk2.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "pinkfolk",
           "name": "constantepg.kodibg.org"
@@ -7540,10 +6497,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkHorror.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Horror",
           "name": "mts.rs"
@@ -7560,10 +6514,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PINKKids.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "pink-kids",
           "name": "sbb.rs"
@@ -7616,10 +6567,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkMovies.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "pink-movies",
           "name": "sbb.rs"
@@ -7664,10 +6612,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkPedia.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Pedia",
           "name": "mts.rs"
@@ -7684,10 +6629,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Pink Plus",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "pink-plus",
           "name": "sbb.rs"
@@ -7712,10 +6654,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkPremium.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Premium",
           "name": "mts.rs"
@@ -7732,10 +6671,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkReality.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Reality",
           "name": "mts.rs"
@@ -7752,10 +6688,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkRomance.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Romance",
           "name": "mts.rs"
@@ -7772,10 +6705,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkSyfy.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Sci Fi &amp; Fantasy",
           "name": "mts.rs"
@@ -7808,10 +6738,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkSoap.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Soap",
           "name": "mts.rs"
@@ -7828,10 +6755,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkThriller.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Thriller",
           "name": "mts.rs"
@@ -7864,10 +6788,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkWorld.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink World Cinema",
           "name": "mts.rs"
@@ -7882,19 +6803,10 @@
       "name": "Pink World",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Pink World Cinema",
-      "enabled": true,
-      "name": "Pink World Cinema",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "PinkZabava.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink Show",
           "name": "mts.rs"
@@ -7911,10 +6823,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PinkRoll.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "Pink&Roll",
           "name": "mts.rs"
@@ -7931,10 +6840,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PINKoTV.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "RO/ron_552441895261",
           "name": "horizon.tv"
@@ -8019,10 +6925,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PlayboyIberia.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "334",
           "name": "m.tvguide.co.uk-index"
@@ -8113,13 +7016,7 @@
       "name": "Power Turk",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Pravoslavna TV (web)",
-      "enabled": false,
-      "name": "Pravoslavna TV (web)",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -8227,10 +7124,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PrimaTV.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "8",
           "name": "rcs-rds.ro"
@@ -8279,10 +7173,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PrivateTV.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "/program-tv/private-tv-351",
           "name": "programtv.onet.pl"
@@ -8299,10 +7190,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ProTVInternational.ro",
-          "name": "ROBasic"
-        }
+        
       ],
       "xmltv_id": "Pro TV Intl",
       "enabled": true,
@@ -8323,10 +7211,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Prva.hr",
-          "name": "YUBasic"
-        },
+        
         {
           "site_id": "Channel:prva,Nr:28",
           "name": "tvportal.rs"
@@ -8339,10 +7224,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Rai1.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "RaiUno",
           "name": "rai.it"
@@ -8359,10 +7241,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Rai2.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "RaiDue",
           "name": "rai.it"
@@ -8379,10 +7258,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Rai3.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "RaiTre",
           "name": "rai.it"
@@ -8399,10 +7275,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RaiGulp.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "RaiGulp",
           "name": "rai.it"
@@ -8415,10 +7288,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RaiMovie.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "RaiMovie",
           "name": "rai.it"
@@ -8431,10 +7301,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RaiNews.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "rai-news",
           "name": "guidatv.sky.it"
@@ -8447,10 +7314,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RaiScuola.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "RaiEducational",
           "name": "rai.it"
@@ -8463,10 +7327,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RaiSportPlus.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "RaiSportpiuHD",
           "name": "raiplay.it"
@@ -8479,10 +7340,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Rai Sport 1",
-          "name": "ITSky"
-        },
+        
         {
           "site_id": "RaiSport1",
           "name": "rai.it"
@@ -8503,10 +7361,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RaiSport2.it",
-          "name": "ITSky"
-        },
+        
         {
           "site_id": "RaiSport2",
           "name": "rai.it"
@@ -8527,10 +7382,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RaiYoyo.it",
-          "name": "ITBasic"
-        },
+        
         {
           "site_id": "Yoyo",
           "name": "rai.it"
@@ -8615,10 +7467,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTDocumentary.pl",
-          "name": "News"
-        },
+        
         {
           "site_id": "rtd",
           "name": "tviz.tv"
@@ -8651,10 +7500,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTL.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "86/rtl",
           "name": "klack.de"
@@ -8671,10 +7517,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTL2.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "29438502973",
           "name": "horizon.tv.de"
@@ -8695,10 +7538,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTL4.nl",
-          "name": "BLBasic"
-        },
+        
         {
           "site_id": "24443943096",
           "name": "horizon.tv.nl"
@@ -8711,10 +7551,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTL5.nl",
-          "name": "BLBasic"
-        },
+        
         {
           "site_id": "24443943146",
           "name": "horizon.tv.nl"
@@ -8727,10 +7564,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTL7.nl",
-          "name": "BLBasic"
-        },
+        
         {
           "site_id": "24443943014",
           "name": "horizon.tv.nl"
@@ -8743,10 +7577,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTLNitro.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "29438503118",
           "name": "horizon.tv.de"
@@ -8799,10 +7630,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTL9.fr",
-          "name": "FRMixte"
-        },
+        
         {
           "site_id": "rtl-9,115",
           "name": "telerama.fr"
@@ -8819,10 +7647,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTPi.pt",
-          "name": "News"
-        },
+        
         {
           "site_id": "236",
           "name": "tv.wp.pl"
@@ -8909,10 +7734,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RealitateaTV.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "9",
           "name": "rcs-rds.ro"
@@ -8929,10 +7751,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RedlightHD.ero",
-          "name": "Ero"
-        },
+        
         {
           "site_id": "/program-tv/redlight-hd-498",
           "name": "programtv.onet.pl"
@@ -8945,10 +7764,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RiC.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "RIC",
           "name": "m.tvtoday.de"
@@ -8963,13 +7779,7 @@
       "name": "RiC",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Rila TV (web)",
-      "enabled": false,
-      "name": "Rila TV (web)",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -8984,10 +7794,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Rishtey.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "3916",
           "name": "uk-sky.com"
@@ -9024,10 +7831,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RussiaToday.uk",
-          "name": "News"
-        },
+        
         {
           "site_id": "/program-tv/russia-today-115",
           "name": "programtv.onet.pl"
@@ -9055,18 +7859,8 @@
       "update": "i"
     },
     {
-      "siteinis": [],
-      "xmltv_id": "Russian Travel Giude",
-      "enabled": false,
-      "name": "Russian Travel Giude",
-      "update": "i"
-    },
-    {
       "siteinis": [
-        {
-          "site_id": "rtgtv",
-          "name": "ExUSSR"
-        },
+       
         {
           "site_id": "1356",
           "name": "tv.mail.ru"
@@ -9074,14 +7868,6 @@
         {
           "site_id": "87",
           "name": "tv.yandex.ru"
-        },
-        {
-          "site_id": "300083",
-          "name": "teleguide.info"
-        },
-        {
-          "site_id": "300109",
-          "name": "Teleguide"
         }
       ],
       "xmltv_id": "Russian Travel Guide",
@@ -9091,10 +7877,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sat.1",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "SAT1",
           "name": "m.tvtoday.de"
@@ -9120,10 +7903,6 @@
     {
       "siteinis": [
         {
-          "site_id": "SBS6.nl",
-          "name": "BLBasic"
-        },
-        {
           "site_id": "24443943184",
           "name": "horizon.tv.nl"
         },
@@ -9137,37 +7916,14 @@
       "name": "SBS 6 (NL)",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "SCT Boy & Boy",
-      "enabled": false,
-      "name": "SCT Boy & Boy",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "SCT Exotica",
-      "enabled": true,
-      "name": "SCT Exotica",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "SCT Satisfaction",
-      "enabled": true,
-      "name": "SCT Satisfaction",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
           "site_id": "5",
           "name": "novaguide_en.gr"
         },
-        {
-          "site_id": "Skai.gr",
-          "name": "rytecGR_Basic"
-        },
+        
         {
           "site_id": "skai",
           "name": "cosmote.gr"
@@ -9192,10 +7948,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SRFernsehen.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "28486",
           "name": "programm.ard.de"
@@ -9206,27 +7959,7 @@
       "name": "SR Fernsehen",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "SW: TV3 Sport",
-      "enabled": true,
-      "name": "SW: TV3 Sport",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "SW: TV4 Sport",
-      "enabled": true,
-      "name": "SW: TV4 Sport",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "SW: Viasat Sport Premium",
-      "enabled": true,
-      "name": "SW: Viasat Sport Premium",
-      "update": "i"
-    },
+ 
     {
       "siteinis": [
         {
@@ -9263,13 +7996,7 @@
       "name": "Salon 3",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Salsa+",
-      "enabled": false,
-      "name": "Salsa+",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -9291,10 +8018,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sat1Gold.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "151/sat-1-gold",
           "name": "klack.de"
@@ -9307,10 +8031,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Scuzz.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "240",
           "name": "tvguide.co.uk"
@@ -9335,10 +8056,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ServusHD.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "135/servus-tv",
           "name": "klack.de"
@@ -9351,10 +8069,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ServusTV.at",
-          "name": "ATBasic"
-        },
+        
         {
           "site_id": "SERVUSTV",
           "name": "tv-media.at"
@@ -9365,19 +8080,9 @@
       "name": "Servus AT",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Sexto Senso",
-      "enabled": true,
-      "name": "Sexto Senso",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "shansontv",
-          "name": "ExUSSR"
-        },
         {
           "site_id": "725",
           "name": "kartina.tv"
@@ -9418,10 +8123,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SikhChannel.uk",
-          "name": "UKInt"
-        },
+        
         {
           "site_id": "3650",
           "name": "uk-sky.com"
@@ -9434,10 +8136,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sixx.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "465354791388",
           "name": "horizon.tv.de"
@@ -9457,10 +8156,7 @@
       "enabled": false,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "Sky1.uk",
-          "name": "UKSkyDead"
-        },
+        
         {
           "site_id": "6",
           "name": "zingzing.tv"
@@ -9486,10 +8182,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sky2.uk",
-          "name": "UKSkyDead"
-        },
+        
         {
           "site_id": "259",
           "name": "m.tvguide.co.uk-index"
@@ -9510,10 +8203,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sky3D.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "SKY3D",
           "name": "m.tvtoday.de"
@@ -9530,14 +8220,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyAction.de",
-          "name": "DESportsMovies"
-        },
-        {
-          "site_id": "SkyMoviesActionThriller.uk",
-          "name": "UKSportsMovies"
-        },
+        
+        
         {
           "site_id": "1001",
           "name": "uk-sky.com"
@@ -9554,14 +8238,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyAtlantic.uk",
-          "name": "UKSportsMovies"
-        },
-        {
-          "site_id": "SkyAtlanticHD.de",
-          "name": "DESportsMovies"
-        },
+        
+        
         {
           "site_id": "4053",
           "name": "tv.sky.com"
@@ -9582,10 +8260,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyBundesliga.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "Sky-Bundesliga,13881",
           "name": "prisma.de"
@@ -9602,10 +8277,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyCinema.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "CIN",
           "name": "m.tvtoday.de"
@@ -9638,14 +8310,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyMoviesComedy.uk",
-          "name": "UKSportsMovies"
-        },
-        {
-          "site_id": "SkyComedy.de",
-          "name": "DESportsMovies"
-        },
+        
+        
         {
           "site_id": "1002",
           "name": "uk-sky.com"
@@ -9658,10 +8324,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyMoviesDisney.uk",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "1838",
           "name": "uk-sky.com"
@@ -9674,10 +8337,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyMoviesDrama.uk",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "1816",
           "name": "uk-sky.com"
@@ -9690,14 +8350,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyMoviesFamily.uk",
-          "name": "UKSportsMovies"
-        },
-        {
-          "site_id": "SkyCinemaFamily.de",
-          "name": "DESportsMovies"
-        },
+        
+        
         {
           "site_id": "1808",
           "name": "uk-sky.com"
@@ -9708,23 +8362,11 @@
       "name": "Sky Family",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Sky Folk",
-      "enabled": true,
-      "name": "Sky Folk",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "SkyCinemaHits.uk",
-          "name": "UKSportsMovies"
-        },
-        {
-          "site_id": "SkyCinemaHits.de",
-          "name": "DESportsMovies"
-        },
+        
+        
         {
           "site_id": "99/sky-cinema-hits",
           "name": "klack.de"
@@ -9737,10 +8379,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyLiving.uk",
-          "name": "UKSkyDead"
-        },
+        
         {
           "site_id": "2201",
           "name": "uk-sky.com"
@@ -9769,10 +8408,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyNews.uk",
-          "name": "News"
-        },
+        
         {
           "site_id": "sky-news-hd##9",
           "name": "virginmedia.com"
@@ -9796,10 +8432,7 @@
       "enabled": false,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "SkyMoviesPremiere.uk",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "248",
           "name": "m.tvguide.co.uk-index"
@@ -9825,10 +8458,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySciFiHorror.uk",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "1807",
           "name": "uk-sky.com"
@@ -9841,14 +8471,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkyMoviesIndie.uk",
-          "name": "UKSportsMovies"
-        },
-        {
-          "site_id": "SkySelect.de",
-          "name": "DECommon"
-        },
+        
+        
         {
           "site_id": "1811",
           "name": "uk-sky.com"
@@ -9861,10 +8485,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySport1.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "Sky-Sport-1,13887",
           "name": "prisma.de"
@@ -9881,10 +8502,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySport2.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "Sky-Sport-2,13889",
           "name": "prisma.de"
@@ -9901,10 +8519,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySport3.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "554823207347",
           "name": "horizon.tv.at"
@@ -9917,10 +8532,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySport4.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "554823207348",
           "name": "horizon.tv.at"
@@ -9933,10 +8545,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySport5.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "554823207349",
           "name": "horizon.tv.at"
@@ -9949,10 +8558,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySport6.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "554823207350",
           "name": "horizon.tv.at"
@@ -9965,10 +8571,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySportAustria.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "652442663315",
           "name": "horizon.tv.at"
@@ -9985,10 +8588,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySports1.ie",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "1",
           "name": "skysports.com"
@@ -10001,10 +8601,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySpCricket.uk",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "2",
           "name": "skysports.com"
@@ -10017,10 +8614,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySpAction.uk",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "3",
           "name": "skysports.com"
@@ -10045,10 +8639,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySports5.ie",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "5",
           "name": "skysports.com"
@@ -10061,10 +8652,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkySpF1.uk",
-          "name": "UKSportsMovies"
-        },
+        
         {
           "site_id": "3835",
           "name": "tv.sky.com"
@@ -10152,13 +8740,7 @@
       "name": "SkyIT Cinema Family",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "SkyIT Cinema Hits",
-      "enabled": true,
-      "name": "SkyIT Cinema Hits",
-      "update": "i"
-    },
+  
     {
       "siteinis": [
         {
@@ -10245,10 +8827,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SonyMax.uk",
-          "name": "UKSkyLive"
-        },
+        
         {
           "site_id": "2603",
           "name": "uk-sky.com"
@@ -10264,10 +8843,7 @@
       "enabled": false,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "SonyMovies.uk",
-          "name": "UKSkyLive"
-        },
+        
         {
           "site_id": "742",
           "name": "tvguide.co.uk"
@@ -10285,10 +8861,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SONYSAB.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "344",
           "name": "tvguide.co.uk"
@@ -10303,19 +8876,10 @@
       "name": "Sony SAB",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Sony TV Asia",
-      "enabled": false,
-      "name": "Sony TV Asia",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "SpiegelGeschichte.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "SP-GE",
           "name": "tvtoday.de"
@@ -10334,19 +8898,10 @@
       "name": "Spiegel Geschichte",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Sport 1",
-      "enabled": false,
-      "name": "Sport 1",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "Sport1HD.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "29438502967",
           "name": "horizon.tv.de"
@@ -10365,19 +8920,10 @@
       "name": "Sport 1 DE",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Sport 2",
-      "enabled": false,
-      "name": "Sport 2",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "SportKlub1.rs",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "1",
           "name": "sportklub.rs"
@@ -10394,10 +8940,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SportKlub1.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "1",
           "name": "sportklub.hr"
@@ -10408,19 +8951,10 @@
       "name": "Sport Klub 1 HR",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Sport Klub 1 SI",
-      "enabled": false,
-      "name": "Sport Klub 1 SI",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "Sportklub2.svn",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "2",
           "name": "sportklub.rs"
@@ -10437,10 +8971,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SportKlub2.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "2",
           "name": "sportklub.hr"
@@ -10451,19 +8982,10 @@
       "name": "Sport Klub 2 HR",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Sport Klub 2 SI",
-      "enabled": false,
-      "name": "Sport Klub 2 SI",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "Sportklub3.svn",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "3",
           "name": "sportklub.rs"
@@ -10484,10 +9006,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SportKlub3.hr",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "3",
           "name": "sportklub.hr"
@@ -10507,10 +9026,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sportklub4.svn",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "4",
           "name": "sportklub.rs"
@@ -10527,10 +9043,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sportklub5.svn",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "5",
           "name": "sportklub.rs"
@@ -10551,10 +9064,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sportklub6.svn",
-          "name": "YUSportsMovies"
-        },
+        
         {
           "site_id": "6",
           "name": "sportklub.rs"
@@ -10575,10 +9085,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SportPlusHD.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "4,sportplushd",
           "name": "tvplus.bg"
@@ -10595,10 +9102,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sport1US.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "162",
           "name": "sky.de"
@@ -10615,10 +9119,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SPORT1plus.de",
-          "name": "DESportsMovies"
-        },
+        
         {
           "site_id": "29438502981",
           "name": "horizon.tv.de"
@@ -10637,13 +9138,7 @@
       "name": "Sport1+",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Sportal",
-      "enabled": true,
-      "name": "Sportal",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -10660,19 +9155,10 @@
       "name": "Star GR",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Star Gold",
-      "enabled": false,
-      "name": "Star Gold",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "StarLifeOK.uk",
-          "name": "UKSkyLive"
-        },
+        
         {
           "site_id": "3608",
           "name": "uk-sky.com"
@@ -10703,13 +9189,7 @@
       "name": "Star TV",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Stars XXX",
-      "enabled": false,
-      "name": "Stars XXX",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -10740,10 +9220,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SuperRTL.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "195",
           "name": "tv.dir.bg"
@@ -10768,10 +9245,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SuperOne.ero",
-          "name": "Ero"
-        }
+        
       ],
       "xmltv_id": "SuperOne",
       "enabled": false,
@@ -10780,14 +9254,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SuperTennis.it",
-          "name": "ITBasic"
-        },
-        {
-          "site_id": "SuperTennis",
-          "name": "ITSky"
-        },
+        
+        
         {
           "site_id": "8322",
           "name": "movietele.it"
@@ -10804,10 +9272,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SCIFI.uk",
-          "name": "UKSkyLive"
-        },
+        
         {
           "site_id": "2505",
           "name": "uk-sky.com"
@@ -10820,10 +9285,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TF1.fr",
-          "name": "FRTNTBasic"
-        },
+        
         {
           "site_id": "tf1,192",
           "name": "telerama.fr"
@@ -10840,10 +9302,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TLC.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "8145",
           "name": "dnes.bg"
@@ -10860,10 +9319,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TLC.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "TLC",
           "name": "tvtoday.de"
@@ -10880,10 +9336,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TNTFilm.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "TNTFILM",
           "name": "tv-media.at"
@@ -10904,10 +9357,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TNTSerie.de",
-          "name": "DECommon"
-        },
+        
         {
           "site_id": "TNTSERIE",
           "name": "tv-media.at"
@@ -11088,14 +9538,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TRTWorld.uk",
-          "name": "UKFTA"
-        },
-        {
-          "site_id": "TRTworld.nws",
-          "name": "News"
-        },
+        
+        
         {
           "site_id": "1758",
           "name": "engin.tv"
@@ -11124,10 +9568,7 @@
           "site_id": "tv1000",
           "name": "viasat.bg"
         },
-        {
-          "site_id": "ViasatTV1000Balkan.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "67",
           "name": "potv.bg"
@@ -11181,19 +9622,10 @@
       "name": "TV RUS",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "TV SudEst",
-      "enabled": false,
-      "name": "TV SudEst",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "TVPlus.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "2,tvplus",
           "name": "tvplus.bg"
@@ -11222,10 +9654,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tv1000-comedy-hd",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "255",
           "name": "ntvplus.ru"
@@ -11233,10 +9662,6 @@
         {
           "site_id": "tv1000-comedy-hd",
           "name": "tviz.tv"
-        },
-        {
-          "site_id": "300116",
-          "name": "Teleguide"
         }
       ],
       "xmltv_id": "TV1000 Комеди",
@@ -11246,10 +9671,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tv1000-megahit-hd",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "254",
           "name": "ntvplus.ru"
@@ -11257,10 +9679,6 @@
         {
           "site_id": "tv1000-megahit-hd",
           "name": "tviz.tv"
-        },
-        {
-          "site_id": "300115",
-          "name": "Teleguide"
         }
       ],
       "xmltv_id": "TV1000 Мегахит",
@@ -11270,10 +9688,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tv1000-premium-hd",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "253",
           "name": "ntvplus.ru"
@@ -11281,10 +9696,6 @@
         {
           "site_id": "tv1000-premium-hd",
           "name": "tviz.tv"
-        },
-        {
-          "site_id": "300114",
-          "name": "Teleguide"
         }
       ],
       "xmltv_id": "TV1000 Премиум",
@@ -11294,10 +9705,6 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tv1000_rus",
-          "name": "ExUSSR"
-        },
         {
           "site_id": "178",
           "name": "ntvplus.ru"
@@ -11318,14 +9725,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TV5MondeEurope.fr",
-          "name": "News"
-        },
-        {
-          "site_id": "TV5Monde.ro",
-          "name": "ROBasic"
-        },
+        
+        
         {
           "site_id": "tv5monde_CNT0000008o0JX.html",
           "name": "tv.orange.fr"
@@ -11370,10 +9771,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVE.cn",
-          "name": "News"
-        },
+        
         {
           "site_id": "TVE",
           "name": "tv.sms.cz.m"
@@ -11406,10 +9804,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVR1.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "1",
           "name": "rcs-rds.ro"
@@ -11434,10 +9829,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVR2.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "7",
           "name": "program24.ro"
@@ -11454,10 +9846,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVR3.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "95",
           "name": "program24.ro"
@@ -11474,10 +9863,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVRCluj.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "371",
           "name": "program24.ro"
@@ -11494,10 +9880,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVRCraiova.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "375",
           "name": "program24.ro"
@@ -11514,10 +9897,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVRIasi.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "373",
           "name": "program24.ro"
@@ -11550,10 +9930,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVRMoldova.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "381",
           "name": "program24.ro"
@@ -11582,10 +9959,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVRTarguMures.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "379",
           "name": "program24.ro"
@@ -11602,10 +9976,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVRTimisoara.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "377",
           "name": "program24.ro"
@@ -11642,10 +10013,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tagesschau24.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "TAG24",
           "name": "m.tvtoday.de"
@@ -11666,10 +10034,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TarafTV.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "634049575400",
           "name": "horizon.tv.ro"
@@ -11680,23 +10045,11 @@
       "name": "Taraf RO",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Tay TV",
-      "enabled": true,
-      "name": "Tay TV",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "Tele5.de",
-          "name": "DEBasic"
-        },
-        {
-          "site_id": "Tele5.at",
-          "name": "ATBasic"
-        },
+        
+        
         {
           "site_id": "Tele-5,13717",
           "name": "prisma.de"
@@ -11727,19 +10080,7 @@
       "name": "TeleSur",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Test",
-      "enabled": false,
-      "name": "Test"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Test 4K U",
-      "enabled": false,
-      "name": "Test 4K U",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -11766,10 +10107,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TheVault.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "928",
           "name": "tvguide.co.uk"
@@ -11786,10 +10124,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TheVoice.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11129",
           "name": "dnes.bg"
@@ -11816,29 +10151,13 @@
       "name": "The World",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "TiankovMusic",
-      "enabled": false,
-      "name": "TiankovMusic",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Timeshift test",
-      "enabled": true,
-      "name": "Timeshift test",
-      "update": "i"
-    },
+    
     {
       "name": "Tiny Pop",
       "enabled": true,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "tinypop.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "3780",
           "name": "tv.sky.com"
@@ -11866,13 +10185,7 @@
       "name": "Tivibu Spor",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Tom and Jerry",
-      "enabled": true,
-      "name": "Tom and Jerry",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -11885,13 +10198,7 @@
       "name": "Top Crime",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Top Pop TV",
-      "enabled": false,
-      "name": "Top Pop TV",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -11914,14 +10221,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Mezzo.fr",
-          "name": "FRBECommon"
-        },
-        {
-          "site_id": "Mezzo.ro",
-          "name": "ROBasic"
-        },
+        
+        
         {
           "site_id": "Mezzo",
           "name": "tv.sms.cz.m"
@@ -11950,14 +10251,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TraceSport.fr",
-          "name": "FRMixte"
-        },
-        {
-          "site_id": "TraceSportStars.de",
-          "name": "DECommon"
-        },
+        
+        
         {
           "site_id": "15,2,11,20",
           "name": "vivacom.bg"
@@ -12004,13 +10299,7 @@
       "name": "Travel Channel",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Travel XP",
-      "enabled": false,
-      "name": "Travel XP",
-      "update": "i"
-    },
+   
     {
       "name": "True Christmas",
       "enabled": true,
@@ -12036,10 +10325,7 @@
       "enabled": true,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "TrueEntertainment.uk",
-          "name": "UKBasic"
-        },
+        
         {
           "site_id": "633",
           "name": "tvguide.co.uk"
@@ -12060,10 +10346,7 @@
       "enabled": false,
       "update": "i",
       "siteinis": [
-        {
-          "site_id": "TrueMovies.uk",
-          "name": "UKFTA"
-        },
+        
         {
           "site_id": "639698471023",
           "name": "horizon.tv.ie"
@@ -12087,13 +10370,7 @@
       ],
       "xmltv_id": "True Movies 1"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "U RO",
-      "enabled": false,
-      "name": "U RO",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -12106,61 +10383,10 @@
       "name": "UA TV (Укр)",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "US: Bloomberg",
-      "enabled": false,
-      "name": "US: Bloomberg",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "US: CBS",
-      "enabled": false,
-      "name": "US: CBS",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "US: CBSN",
-      "enabled": false,
-      "name": "US: CBSN",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "US: CNN",
-      "enabled": false,
-      "name": "US: CNN",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "US: Fox News",
-      "enabled": false,
-      "name": "US: Fox News",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "US: NBCSN",
-      "enabled": false,
-      "name": "US: NBCSN",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "V.I.P. TV",
-      "enabled": true,
-      "name": "V.I.P. TV",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "VH1.ro",
-          "name": "ROBasic"
-        },
+        
         {
           "site_id": "27",
           "name": "novaguide_en.gr"
@@ -12197,10 +10423,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Vox.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "126/vox",
           "name": "klack.de"
@@ -12240,14 +10463,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "VeronicaDisneyXD.nl",
-          "name": "BLBasic"
-        },
-        {
-          "site_id": "DisneyXD.de",
-          "name": "DECommon"
-        },
+        
+        
         {
           "site_id": "12",
           "name": "novaguide_en.gr"
@@ -12272,10 +10489,7 @@
           "site_id": "explore",
           "name": "viasat.bg"
         },
-        {
-          "site_id": "ViasatExplorer.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "30",
           "name": "potv.bg"
@@ -12309,10 +10523,6 @@
           "name": "viasatworld.com"
         },
         {
-          "site_id": "nature-history",
-          "name": "ExUSSR"
-        },
-        {
           "site_id": "256",
           "name": "ntvplus.ru"
         },
@@ -12336,10 +10546,7 @@
           "site_id": "history",
           "name": "viasat.bg"
         },
-        {
-          "site_id": "ViasatHistory.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "39",
           "name": "potv.bg"
@@ -12360,10 +10567,7 @@
           "site_id": "nature",
           "name": "viasat.bg"
         },
-        {
-          "site_id": "ViasatNature.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "125",
           "name": "potv.bg"
@@ -12376,10 +10580,6 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "viasat-sport",
-          "name": "ExUSSR"
-        },
         {
           "site_id": "265",
           "name": "ntvplus.ru"
@@ -12395,14 +10595,6 @@
         {
           "site_id": "1818",
           "name": "tv.mail.ru"
-        },
-        {
-          "site_id": "300002",
-          "name": "teleguide.info"
-        },
-        {
-          "site_id": "1818",
-          "name": "Teleguide"
         }
       ],
       "xmltv_id": "Viasat Sport",
@@ -12431,10 +10623,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "WDR.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "127/wdr",
           "name": "klack.de"
@@ -12471,10 +10660,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "world-fashion",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "/world-fashion-channel",
           "name": "tv.i.ua"
@@ -12483,13 +10669,6 @@
       "xmltv_id": "World Fashion",
       "enabled": true,
       "name": "World Fashion",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "XXL",
-      "enabled": false,
-      "name": "XXL",
       "update": "i"
     },
     {
@@ -12504,69 +10683,7 @@
       "name": "XXX",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "XXX 3",
-      "enabled": false,
-      "name": "XXX 3",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "XXX 4",
-      "enabled": false,
-      "name": "XXX 4",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "XXX 5",
-      "enabled": false,
-      "name": "XXX 5",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "XYMAX",
-      "enabled": true,
-      "name": "XYMAX",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "XYMAX 2",
-      "enabled": true,
-      "name": "XYMAX 2",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "XYMIX",
-      "enabled": true,
-      "name": "XYMIX",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "XYMIX 2",
-      "enabled": true,
-      "name": "XYMIX 2",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "XYPlus",
-      "enabled": true,
-      "name": "XYPlus",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "XYPlus 2",
-      "enabled": true,
-      "name": "XYPlus 2",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -12581,10 +10698,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ZDF.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "29438503165",
           "name": "horizon.tv.de"
@@ -12601,10 +10715,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ZDFinfo.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "29438503079",
           "name": "horizon.tv.de"
@@ -12637,10 +10748,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ZDFneo.de",
-          "name": "DEBasic"
-        },
+        
         {
           "site_id": "2NEO",
           "name": "m.tvtoday.de"
@@ -12655,33 +10763,9 @@
       "name": "ZDF Neo",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Zee Cinema",
-      "enabled": false,
-      "name": "Zee Cinema",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Zee Punjabi",
-      "enabled": false,
-      "name": "Zee Punjabi",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Zee TV",
-      "enabled": false,
-      "name": "Zee TV",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "Sport1Golf.nl",
-          "name": "NLSportsMovies"
-        },
         {
           "site_id": "419",
           "name": "tvgids.nl.index-only"
@@ -12722,10 +10806,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Sport1HD.nl",
-          "name": "NLSportsMovies"
-        },
+        
         {
           "site_id": "99",
           "name": "tvgids.nl.index-only"
@@ -12765,10 +10846,7 @@
           "site_id": "btv",
           "name": "btv.bg"
         },
-        {
-          "site_id": "bTV.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "13",
           "name": "dnes.bg"
@@ -12822,10 +10900,7 @@
           "site_id": "btv-action",
           "name": "btv.bg"
         },
-        {
-          "site_id": "bTVAction.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "4##BBTA",
           "name": "programatv.bg"
@@ -12893,10 +10968,7 @@
           "site_id": "btv-comedy",
           "name": "btv.bg"
         },
-        {
-          "site_id": "bTVComedy.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "4404",
           "name": "dnes.bg"
@@ -12930,10 +11002,7 @@
           "site_id": "btv-lady",
           "name": "btv.bg"
         },
-        {
-          "site_id": "bTVLady.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "9339",
           "name": "dnes.bg"
@@ -13020,27 +11089,7 @@
       "name": "beIN Sports 1 (fr)",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "beIN Sports 10 (ar)",
-      "enabled": true,
-      "name": "beIN Sports 10 (ar)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "beIN Sports 11 (en)",
-      "enabled": false,
-      "name": "beIN Sports 11 (en)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "beIN Sports 12 (en)",
-      "enabled": false,
-      "name": "beIN Sports 12 (en)",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
         {
@@ -13125,54 +11174,10 @@
       "name": "beIN Sports 3 (fr)",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "beIN Sports 4 (ar)",
-      "enabled": true,
-      "name": "beIN Sports 4 (ar)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "beIN Sports 5 (ar)",
-      "enabled": true,
-      "name": "beIN Sports 5 (ar)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "beIN Sports 6 (ar)",
-      "enabled": true,
-      "name": "beIN Sports 6 (ar)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "beIN Sports 7 (ar)",
-      "enabled": true,
-      "name": "beIN Sports 7 (ar)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "beIN Sports 8 (ar)",
-      "enabled": true,
-      "name": "beIN Sports 8 (ar)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "beIN Sports 9 (ar)",
-      "enabled": true,
-      "name": "beIN Sports 9 (ar)",
-      "update": "i"
-    },
+   
     {
       "siteinis": [
-        {
-          "site_id": "EKids.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11121",
           "name": "dnes.bg"
@@ -13237,10 +11242,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TruTV.uk",
-          "name": "UKBasic"
-        },
+        
         {
           "site_id": "923",
           "name": "tvguide.co.uk"
@@ -13292,10 +11294,7 @@
           "site_id": "bnt1",
           "name": "bnt.bg"
         },
-        {
-          "site_id": "BNT1.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11199",
           "name": "dnes.bg"
@@ -13341,10 +11340,7 @@
           "site_id": "bnt2",
           "name": "bnt.bg"
         },
-        {
-          "site_id": "BNT2.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11087",
           "name": "dnes.bg"
@@ -13417,13 +11413,7 @@
       ],
       "xmltv_id": "БНТ HD"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "БХ ТВ",
-      "enabled": true,
-      "name": "БХ ТВ",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -13446,10 +11436,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "vremya",
-          "name": "ExUSSR"
-        },
+       
         {
           "site_id": "85",
           "name": "ntvplus.ru"
@@ -13498,10 +11485,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "det",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "36",
           "name": "ntvplus.ru"
@@ -13529,10 +11513,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "domkino",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "dom-kino",
           "name": "tviz.tv"
@@ -13560,10 +11541,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "evrokino",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "192",
           "name": "ntvplus.ru"
@@ -13584,10 +11562,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Evrokom.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11134",
           "name": "dnes.bg"
@@ -13599,18 +11574,7 @@
       "update": "i"
     },
     {
-      "siteinis": [],
-      "xmltv_id": "Еврошанс",
-      "enabled": true,
-      "name": "Еврошанс",
-      "update": "i"
-    },
-    {
       "siteinis": [
-        {
-          "site_id": "zhivi",
-          "name": "ExUSSR"
-        },
         {
           "site_id": "216",
           "name": "ntvplus.ru"
@@ -13618,11 +11582,8 @@
         {
           "site_id": "zhivi",
           "name": "tviz.tv"
-        },
-        {
-          "site_id": "672",
-          "name": "Teleguide"
         }
+        
       ],
       "xmltv_id": "Живи",
       "enabled": true,
@@ -13631,10 +11592,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "zvezda",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "87",
           "name": "kartina.tv"
@@ -13656,10 +11614,6 @@
     {
       "siteinis": [
         {
-          "site_id": "illuzion+",
-          "name": "ExUSSR"
-        },
-        {
           "site_id": "1007",
           "name": "tv.mail.ru"
         },
@@ -13673,13 +11627,7 @@
       "name": "Илюзион+",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Интер (Укр)",
-      "enabled": false,
-      "name": "Интер (Укр)",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
         {
@@ -13722,10 +11670,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "Kanal3.bg",
-          "name": "BGBasic"
-        },
+       
         {
           "site_id": "95_kanal_3",
           "name": "dnevnik.bg"
@@ -13740,19 +11685,10 @@
       "name": "Канал 3",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Канал 4",
-      "enabled": true,
-      "name": "Канал 4",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "piter",
-          "name": "ExUSSR"
-        },
+       
         {
           "site_id": "piter5_rus",
           "name": "s-tv.ru"
@@ -13781,10 +11717,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "karusel",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "19",
           "name": "kartina.tv"
@@ -13809,10 +11742,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "konnyj-mir",
-          "name": "ExUSSR"
-        },
+      
         {
           "site_id": "Конный мир",
           "name": "matchtv.ru"
@@ -13901,10 +11831,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ntv-football-1",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "Матч! Футбол 1",
           "name": "matchtv.ru"
@@ -13925,10 +11852,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ntv-football-2",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "Матч! Футбол 2",
           "name": "matchtv.ru"
@@ -13949,10 +11873,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ntv-football-3",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "Матч! Футбол 3",
           "name": "matchtv.ru"
@@ -13973,10 +11894,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "mir",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "mir",
           "name": "tviz.tv"
@@ -14013,10 +11931,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "muzika1",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "21",
           "name": "kartina.tv"
@@ -14041,10 +11956,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ntv",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "40",
           "name": "ntvplus.ru"
@@ -14065,10 +11977,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ntvmir",
-          "name": "ExUSSR"
-        },
+
         {
           "site_id": "1438",
           "name": "tv.mail.ru"
@@ -14083,26 +11992,10 @@
       "name": "НТВ Мир",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "НТН (Укр)",
-      "enabled": false,
-      "name": "НТН (Укр)",
-      "update": "i"
-    },
-    {
-      "siteinis": [],
-      "xmltv_id": "Наука (Укр)",
-      "enabled": false,
-      "name": "Наука (Укр)",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "nauka",
-          "name": "ExUSSR"
-        },
+      
         {
           "site_id": "nauka-20",
           "name": "tviz.tv"
@@ -14119,10 +12012,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ntv-nashfootball",
-          "name": "ExUSSR"
-        },
+      
         {
           "site_id": "Наш футбол",
           "name": "matchtv.ru"
@@ -14139,10 +12029,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "nashekino",
-          "name": "ExUSSR"
-        },
+       
         {
           "site_id": "27",
           "name": "ntvplus.ru"
@@ -14159,10 +12046,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "novkan",
-          "name": "ExUSSR"
-        },
+       
         {
           "site_id": "315",
           "name": "teleguide.info"
@@ -14173,19 +12057,10 @@
       "name": "Новый Канал",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "Новый Мир",
-      "enabled": true,
-      "name": "Новый Мир",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "nochnoy-club",
-          "name": "ExUSSR"
-        },
+       
         {
           "site_id": "1190",
           "name": "tv.mail.ru"
@@ -14206,10 +12081,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ohota-i-rybalka",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "156",
           "name": "tv.dir.bg"
@@ -14242,10 +12114,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ort",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "41",
           "name": "ntvplus.ru"
@@ -14266,10 +12135,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ortint",
-          "name": "ExUSSR"
-        },
+       
         {
           "site_id": "371",
           "name": "kartina.tv"
@@ -14286,10 +12152,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "ort",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "1tv",
           "name": "s-tv.ru"
@@ -14302,10 +12165,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "peretz-int",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "1481",
           "name": "kartina.tv"
@@ -14326,10 +12186,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PlanetaTV.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "planeta_tv",
           "name": "planeta.tv"
@@ -14342,10 +12199,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PlanetaHD.bg",
-          "name": "BGBasic"
-        },
+       
         {
           "site_id": "planeta_hd",
           "name": "planeta.tv"
@@ -14358,10 +12212,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "PlanetaFolk.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "planeta_folk",
           "name": "planeta.tv"
@@ -14374,10 +12225,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "pyatnica",
-          "name": "ExUSSR"
-        },
+       
         {
           "site_id": "39",
           "name": "kartina.tv"
@@ -14394,10 +12242,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "rentv",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "rentv",
           "name": "s-tv.ru"
@@ -14414,10 +12259,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "rtrpl",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "326",
           "name": "tv.dir.bg"
@@ -14434,10 +12276,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTS1.rs",
-          "name": "YUBasic"
-        },
+        
         {
           "site_id": "rts1",
           "name": "sbb.rs"
@@ -14458,10 +12297,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "RTS2.rs",
-          "name": "YUBasic"
-        },
+        
         {
           "site_id": "rts2",
           "name": "sbb.rs"
@@ -14506,10 +12342,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "rtr",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "42",
           "name": "ntvplus.ru"
@@ -14530,10 +12363,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "vesti",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "74",
           "name": "ntvplus.ru"
@@ -14574,10 +12404,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "russkaya-noch",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "77",
           "name": "ntvplus.ru"
@@ -14594,10 +12421,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "illuzion",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "191",
           "name": "ntvplus.ru"
@@ -14618,10 +12442,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "russkij-extreme",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "72",
           "name": "ntvplus.ru"
@@ -14642,10 +12463,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "SkatTV.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "106_skat",
           "name": "dnevnik.bg"
@@ -14666,14 +12484,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "stb-ua",
-          "name": "ExUSSR"
-        },
-        {
-          "site_id": "stb",
-          "name": "ExUSSR"
-        },
+        
+        
         {
           "site_id": "318",
           "name": "Teleguide"
@@ -14710,10 +12522,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "spas",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "1193",
           "name": "tv.mail.ru"
@@ -14745,10 +12554,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tbn",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "tbn",
           "name": "tviz.tv"
@@ -14765,10 +12571,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TVEvropa.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "11138",
           "name": "dnes.bg"
@@ -14785,10 +12588,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tvcint",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "1467",
           "name": "tv.mail.ru"
@@ -14809,10 +12609,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tvcen",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "tvc",
           "name": "tviz.tv"
@@ -14833,10 +12630,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tv3",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "tv3",
           "name": "s-tv.ru"
@@ -14856,14 +12650,8 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "tnt",
-          "name": "ExUSSR"
-        },
-        {
-          "site_id": "tnt-international-eu",
-          "name": "ExUSSR"
-        },
+        
+        
         {
           "site_id": "tnt",
           "name": "s-tv.ru"
@@ -14878,19 +12666,10 @@
       "name": "ТНТ",
       "update": "i"
     },
-    {
-      "siteinis": [],
-      "xmltv_id": "ТНТ Инт.",
-      "enabled": true,
-      "name": "ТНТ Инт.",
-      "update": "i"
-    },
+    
     {
       "siteinis": [
-        {
-          "site_id": "2p2-ua",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "2x2",
           "name": "s-tv.ru"
@@ -14927,10 +12706,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "news24-ua",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "298",
           "name": "vsetv.com"
@@ -14943,10 +12719,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "telecafe",
-          "name": "ExUSSR"
-        },
+        
         {
           "site_id": "164",
           "name": "ntvplus.ru"
@@ -14995,10 +12768,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "TiankovTV",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "tyankovtv",
           "name": "constantepg.kodibg.org"
@@ -15011,10 +12781,7 @@
     },
     {
       "siteinis": [
-        {
-          "site_id": "FolklorTV.bg",
-          "name": "BGBasic"
-        },
+        
         {
           "site_id": "95",
           "name": "potv.bg"
@@ -15098,10 +12865,6 @@
         {
           "site_id": "365",
           "name": "ntvplus.ru"
-        },
-        {
-          "site_id": "300054",
-          "name": "teleguide.info"
         }
       ],
       "xmltv_id": "Шансон-TB",
