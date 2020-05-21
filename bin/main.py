@@ -23,7 +23,8 @@ with open(wgexeconfig + '.tmpl', 'r') as f:
 content = content.replace('$ConfigDir', configdir)
 content = content.replace('$GrabbingTempFolder', temp)
 content = content.replace('$ReportFolder', logdir)
-content = content.replace('$MaxAsyncProcesses', '3')
+maxAsyncProcesses = '20' if os.name == 'nt' else '3'
+content = content.replace('$MaxAsyncProcesses', maxAsyncProcesses)
 
 with open(wgexeconfig, 'w') as w:
   w.write(content)
