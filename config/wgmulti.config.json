@@ -1039,7 +1039,7 @@
 				}
 			],
 			"xmltv_id": "BIT",
-			"enabled": true,
+			"enabled": false,
 			"name": "BIT",
 			"update": "i"
 		},
