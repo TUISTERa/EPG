@@ -116,13 +116,6 @@
 			"update": "i"
 		},
 		{
-			"siteinis": [],
-			"xmltv_id": "2M Monde",
-			"enabled": true,
-			"name": "2M Monde",
-			"update": "i"
-		},
-		{
 			"siteinis": [
 
 				{
@@ -1681,13 +1674,6 @@
 			"update": "i"
 		},
 		{
-			"siteinis": [],
-			"xmltv_id": "CentoCento",
-			"enabled": true,
-			"name": "CentoCento",
-			"update": "i"
-		},
-		{
 			"siteinis": [
 
 				{
@@ -1778,13 +1764,6 @@
 			"xmltv_id": "Cinemax 2",
 			"enabled": true,
 			"name": "Cinemax 2",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "Cinestar Vizyon 1",
-			"enabled": false,
-			"name": "Cinestar Vizyon 1",
 			"update": "i"
 		},
 		{
@@ -2733,14 +2712,7 @@
 			"name": "EroXX HD",
 			"update": "i"
 		},
-		{
-			"siteinis": [],
-			"xmltv_id": "Estrada TV",
-			"enabled": false,
-			"name": "Estrada TV",
-			"update": "i"
-		},
-		{
+	  {
 			"siteinis": [
 
 				{
@@ -2838,13 +2810,6 @@
 			"update": "i"
 		},
 		{
-			"siteinis": [],
-			"xmltv_id": "Eurosport 3",
-			"enabled": false,
-			"name": "Eurosport 3",
-			"update": "i"
-		},
-		{
 			"siteinis": [{
 				"xmltv_id": "163",
 				"name": "sky.de"
@@ -2862,20 +2827,6 @@
 			"xmltv_id": "Eurosport 360 2",
 			"enabled": false,
 			"name": "Eurosport 360 2",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "Eurosport 4",
-			"enabled": false,
-			"name": "Eurosport 4",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "Eurosport 5",
-			"enabled": false,
-			"name": "Eurosport 5",
 			"update": "i"
 		},
 		{
@@ -2967,13 +2918,6 @@
 			"update": "i"
 		},
 		{
-			"siteinis": [],
-			"xmltv_id": "F.O.",
-			"enabled": false,
-			"name": "F.O.",
-			"update": "i"
-		},
-		{
 			"siteinis": [{
 					"site_id": "19,4,12,20",
 					"name": "vivacom.bg"
@@ -2998,13 +2942,6 @@
 			"xmltv_id": "F.O. TV",
 			"enabled": true,
 			"name": "F.O. TV",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "FC Bayern TV",
-			"enabled": false,
-			"name": "FC Bayern TV",
 			"update": "i"
 		},
 		{
@@ -3848,7 +3785,7 @@
 		{
 			"siteinis": [],
 			"xmltv_id": "GO TV",
-			"enabled": true,
+			"enabled": false,
 			"name": "GO TV",
 			"update": "i"
 		},
@@ -4770,7 +4707,7 @@
 		{
 			"siteinis": [],
 			"xmltv_id": "M6",
-			"enabled": true,
+			"enabled": false,
 			"name": "M6",
 			"update": "i"
 		},
@@ -4864,7 +4801,7 @@
 		{
 			"siteinis": [],
 			"xmltv_id": "MM TV",
-			"enabled": true,
+			"enabled": false,
 			"name": "MM TV",
 			"update": "i"
 		},
@@ -5024,13 +4961,6 @@
 			"xmltv_id": "Magic UK",
 			"enabled": true,
 			"name": "Magic UK",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "Manchester United",
-			"enabled": true,
-			"name": "Manchester United",
 			"update": "i"
 		},
 		{
@@ -5396,13 +5326,6 @@
 			"xmltv_id": "N24",
 			"enabled": true,
 			"name": "N24",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "N24 (WELT)",
-			"enabled": false,
-			"name": "N24 (WELT)",
 			"update": "i"
 		},
 		{
@@ -5798,13 +5721,6 @@
 			"xmltv_id": "Nova TV MK",
 			"enabled": false,
 			"name": "Nova TV MK",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "O2 (B92)",
-			"enabled": true,
-			"name": "O2 (B92)",
 			"update": "i"
 		},
 		{
@@ -7340,13 +7256,6 @@
 			"update": "i"
 		},
 		{
-			"siteinis": [],
-			"xmltv_id": "RTVE",
-			"enabled": false,
-			"name": "RTVE",
-			"update": "i"
-		},
-		{
 			"siteinis": [{
 					"site_id": "11106",
 					"name": "dnes.bg"
@@ -7399,13 +7308,6 @@
 			"xmltv_id": "Rai Sport +",
 			"enabled": false,
 			"name": "Rai Sport +",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "Real Madrid",
-			"enabled": false,
-			"name": "Real Madrid",
 			"update": "i"
 		},
 		{
@@ -7665,13 +7567,6 @@
 			"xmltv_id": "Sangat",
 			"enabled": false,
 			"name": "Sangat",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "Sat.1",
-			"enabled": false,
-			"name": "Sat.1",
 			"update": "i"
 		},
 		{
@@ -8644,13 +8539,6 @@
 			"update": "i"
 		},
 		{
-			"siteinis": [],
-			"xmltv_id": "Sport Klub 3 SI",
-			"enabled": false,
-			"name": "Sport Klub 3 SI",
-			"update": "i"
-		},
-		{
 			"siteinis": [
 
 				{
@@ -9214,13 +9102,6 @@
 			"xmltv_id": "TV 8",
 			"enabled": true,
 			"name": "TV 8",
-			"update": "i"
-		},
-		{
-			"siteinis": [],
-			"xmltv_id": "TV 8.5",
-			"enabled": false,
-			"name": "TV 8.5",
 			"update": "i"
 		},
 		{
@@ -11048,7 +10929,7 @@
 		{
 			"siteinis": [],
 			"xmltv_id": "Домашний",
-			"enabled": true,
+			"enabled": false,
 			"name": "Домашний",
 			"update": "i"
 		},
@@ -12396,7 +12277,16 @@
 	"siteinis": [{
 		"enabled": false,
 		"name": "tvguide.co.uk"
-	}],
+	},
+  {
+    "enabled": false,
+    "name": "tvarenasport.com"
+  },
+  {
+    "enabled": false,
+    "name": "telekom.mk"
+  }
+  ],
 	"useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
 	"mode": "m,nomark"
 }
