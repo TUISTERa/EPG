@@ -77,6 +77,9 @@
 			"siteinis": [
 
 				{
+					"site_id": "190",
+					"name": "tv.dir.bg"
+				},{
 					"site_id": "24kitchen",
 					"name": "24kitchen.bg"
 				},
@@ -520,7 +523,7 @@
 			"siteinis": [
 
 				{
-					"site_id": "204",
+					"site_id": "359",
 					"name": "tv.dir.bg"
 				}
 			],
