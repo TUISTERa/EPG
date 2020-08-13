@@ -48,6 +48,8 @@ def commit(folder, commitmsg = None):
   elif l == 1:
     if files[0] != "":
       log("1 file was modified")
+    else:
+      log("No files were modified")    
   else:
     log("%s files were modified" % l)
 
