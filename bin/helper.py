@@ -2,6 +2,7 @@
 
 import os
 import sys
+import git
 import datetime
 
 bindir         = os.path.dirname(os.path.realpath(__file__))
@@ -34,3 +35,32 @@ def log(msg):
   #with open(logfile, "a") as w:
   #  w.write(text + "\n")
   print(text)
+
+def commit(folder, commitmsg = None):
+  ### Push local changes
+  log("Commiting local changes from folder %s" % folder)
+  repo = git.cmd.Git(folder)
+  files = repo.diff(None, name_only=True).split('\n')
+  l = len(files)
+  if l == 0:
+    log("No files were modified")
+  elif l == 1:
+    if files[0] != "":
+      log("1 file was modified")
+  else:
+    log("%s files were modified" % l)
+
+  if l > 0 and files[0] != "":
+    for f in files:
+      log("Executing 'git add %s'" % f)
+      repo.add(f)
+
+    if commitmsg != None:
+      commitmsg = "Scheduled update"
+    log("Executing 'git commit -m '%s'" % commitmsg)
+    repo.commit('-m', commitmsg)
+    log("Pushing local files")
+    repo.push()
+    log("Files uploaded!")
+
+
