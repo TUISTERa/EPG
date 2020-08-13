@@ -89,6 +89,7 @@ if commitEnabled:
     ## add log file last
     repo.commit('-m', commitmsg)
     repo.push()
+    log("Files uploaded!")
 
   try:
     from shutil import copyfile
@@ -124,6 +125,6 @@ if commitEnabled:
       repo.push()  
     
   except Exception as er:
-    log("Error: %s", er)
+    log("Error: %s" % er)
 
 log("Finished!")
