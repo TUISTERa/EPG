@@ -94,8 +94,8 @@ if commitEnabled:
   try:
     from shutil import copyfile
     harrygg_dir = os.path.join(gitdir, '../harrygg.github.io/')
-    log("Copying report to harrygg.github.io and commiting")
-    copyfile(report_file, harrygg_dir + report_file)
+    log("Copying report to %s and commiting" % harrygg_dir)
+    copyfile(report_file, harrygg_dir + "index.html")
     log(report_file + " copied to " + harrygg_dir)    
     log("Updating files in folder %s" % harrygg_dir)
     repo = git.cmd.Git(harrygg_dir)
