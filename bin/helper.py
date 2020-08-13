@@ -16,6 +16,7 @@ wglogfile      = os.path.join(logdir, "run.log.txt")
 wgmulti        = os.path.join(bindir, "wgmulti.exe")
 epg_file       = os.path.join(configdir, "epg.xml")
 final_epg_file = os.path.join(gitdir, "epg.xml")
+report_file    = os.path.join(gitdir, "report.html")
 config_file    = os.path.join(configdir, "wgmulti.config.json")
 
 commitEnabled  = True

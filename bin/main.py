@@ -42,7 +42,7 @@ if len(sys.argv) > 1:
 
 ### Pull online changes
 if commitEnabled:
-  log("Updating files folder %s" % gitdir)
+  log("Updating files in folder %s" % gitdir)
   repo = git.cmd.Git(gitdir)
   repo.pull()
   log("Updating files finished")
@@ -90,4 +90,40 @@ if commitEnabled:
     repo.commit('-m', commitmsg)
     repo.push()
 
-log("Exiting!")
+  try:
+    from shutil import copyfile
+    harrygg_dir = os.path.join(gitdir, '../harrygg.github.io/')
+    log("Copying report to harrygg.github.io and commiting")
+    copyfile(report_file, harrygg_dir + report_file)
+    log(report_file + " copied to " + harrygg_dir)    
+    log("Updating files in folder %s" % harrygg_dir)
+    repo = git.cmd.Git(harrygg_dir)
+    repo.pull()
+    log("Updating files finished")
+    log("Pushing local changes")
+    files = repo.diff(None, name_only=True).split('\n')
+    l = len(files)
+    if l == 0:
+      log("No files were modified")
+    elif l == 1:
+      if files[0] != "":
+        log("1 file was modified")
+    else:
+      log("%s files were modified" % l)
+
+    if l > 0 and files[0] != "":
+      for f in files:
+        log("Executing 'git add %s'" % f)
+        repo.add(f)
+
+      commitmsg = "Updating harrygg.github.io"
+      log("Executing 'git commit -m '%s'" % commitmsg)
+      log("Pushing local files")
+      ## add log file last
+      repo.commit('-m', commitmsg)
+      repo.push()  
+    
+  except Exception as er:
+    log("Error: " + er)
+
+log("Finished!")
