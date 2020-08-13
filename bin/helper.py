@@ -42,6 +42,7 @@ def commit(folder, commitmsg = None):
   repo = git.cmd.Git(folder)
   files = repo.diff(None, name_only=True).split('\n')
   l = len(files)
+  log(l)
   if l == 0:
     log("No files were modified")
   elif l == 1:
@@ -55,8 +56,9 @@ def commit(folder, commitmsg = None):
       log("Executing 'git add %s'" % f)
       repo.add(f)
 
-    if commitmsg != None:
+    if commitmsg == None:
       commitmsg = "Scheduled update"
+
     log("Executing 'git commit -m '%s'" % commitmsg)
     repo.commit('-m', commitmsg)
     log("Pushing local files")
