@@ -124,6 +124,6 @@ if commitEnabled:
       repo.push()  
     
   except Exception as er:
-    log("Error: " + er)
+    log("Error: %s", er)
 
 log("Finished!")
