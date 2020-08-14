@@ -42,7 +42,6 @@ def commit(folder, commitmsg = None):
   repo = git.cmd.Git(folder)
   files = repo.diff(None, name_only=True).split('\n')
   l = len(files)
-  log(l)
   if l == 0:
     log("No files were modified")
   elif l == 1:
