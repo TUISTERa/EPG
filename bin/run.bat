@@ -2,4 +2,4 @@
 
 cd C:\Git\EPG\bin
 
-python main.py
+C:\python27\python.exe main.py
