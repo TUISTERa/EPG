@@ -79,7 +79,7 @@
 				{
 					"site_id": "190",
 					"name": "tv.dir.bg"
-				},{
+				}, {
 					"site_id": "24kitchen",
 					"name": "24kitchen.bg"
 				},
@@ -2715,7 +2715,7 @@
 			"name": "EroXX HD",
 			"update": "i"
 		},
-	  {
+		{
 			"siteinis": [
 
 				{
@@ -12278,126 +12278,126 @@
 		"type": "mdb"
 	},
 	"siteinis": [{
-		"enabled": false,
-		"name": "tvguide.co.uk"
-	},
-  {
-    "enabled": false,
-    "name": "tvarenasport.com"
-  },
-  {
-    "enabled": false,
-    "name": "telekom.mk"
-  },
-  {
-    "enabled": false,
-    "name": "prisma.de"
-  },
-  {
-    "enabled": false,
-    "name": "constantepg.kodibg.org"
-  },
-  {
-    "enabled": false,
-    "name": "m.tvprofil.net"
-  },
-  {
-    "enabled": false,
-    "name": "sky.de"
-  },
-  {
-    "enabled": false,
-    "name": "proxy.kodibg.org"
-  },
-  {
-    "enabled": false,
-    "name": "virginmedia.com"
-  },
-  {
-    "enabled": false,
-    "name": "kesintisiz.tv"
-  },
-  {
-    "enabled": false,
-    "name": "sportklub.rs"
-  },
-  {
-    "enabled": false,
-    "name": "	beinsports.com"
-  },
-  {
-    "enabled": false,
-    "name": "mediasetpremium.it"
-  },
-  {
-    "enabled": false,
-    "name": "hmtv.bg"
-  },
-  {
-    "enabled": false,
-    "name": "s-tv.ru"
-  },
-  {
-    "enabled": false,
-    "name": "mts.rs"
-  },
-  {
-    "enabled": false,
-    "name": "t-home.mk"
-  },
-  {
-    "enabled": false,
-    "name": "foxsports.nl"
-  },
-  {
-    "enabled": false,
-    "name": "tvgids.nl"
-  },
-  {
-    "enabled": false,
-    "name": "movistarplus.es"
-  },
-  {
-    "enabled": false,
-    "name": "programme-television.org"
-  },
-  {
-    "enabled": false,
-    "name": "tv.wp.pl"
-  },
-  {
-    "enabled": false,
-    "name": "sincroguia.tv"
-  },
-  {
-    "enabled": false,
-    "name": "sporekrani.com"
-  },
-  {
-    "enabled": false,
-    "name": "vsetv.com"
-  },
-  {
-    "enabled": false,
-    "name": "sbb.rs"
-  },
-  {
-    "enabled": false,
-    "name": "tvportal.rs"
-  },
-  {
-    "enabled": false,
-    "name": "sporedi.tv"
-  },
-  {
-    "enabled": false,
-    "name": "sportklub.hr"
-  },
-  {
-    "enabled": false,
-    "name": "bulgaria24.tv"
-  }
-  ],
+			"enabled": false,
+			"name": "tvguide.co.uk"
+		},
+		{
+			"enabled": false,
+			"name": "tvarenasport.com"
+		},
+		{
+			"enabled": false,
+			"name": "telekom.mk"
+		},
+		{
+			"enabled": false,
+			"name": "prisma.de"
+		},
+		{
+			"enabled": false,
+			"name": "constantepg.kodibg.org"
+		},
+		{
+			"enabled": false,
+			"name": "m.tvprofil.net"
+		},
+		{
+			"enabled": false,
+			"name": "sky.de"
+		},
+		{
+			"enabled": false,
+			"name": "proxy.kodibg.org"
+		},
+		{
+			"enabled": false,
+			"name": "virginmedia.com"
+		},
+		{
+			"enabled": false,
+			"name": "kesintisiz.tv"
+		},
+		{
+			"enabled": false,
+			"name": "sportklub.rs"
+		},
+		{
+			"enabled": false,
+			"name": "beinsports.com"
+		},
+		{
+			"enabled": false,
+			"name": "mediasetpremium.it"
+		},
+		{
+			"enabled": false,
+			"name": "hmtv.bg"
+		},
+		{
+			"enabled": false,
+			"name": "s-tv.ru"
+		},
+		{
+			"enabled": false,
+			"name": "mts.rs"
+		},
+		{
+			"enabled": false,
+			"name": "t-home.mk"
+		},
+		{
+			"enabled": false,
+			"name": "foxsports.nl"
+		},
+		{
+			"enabled": false,
+			"name": "tvgids.nl"
+		},
+		{
+			"enabled": false,
+			"name": "movistarplus.es"
+		},
+		{
+			"enabled": false,
+			"name": "programme-television.org"
+		},
+		{
+			"enabled": false,
+			"name": "tv.wp.pl"
+		},
+		{
+			"enabled": false,
+			"name": "sincroguia.tv"
+		},
+		{
+			"enabled": false,
+			"name": "sporekrani.com"
+		},
+		{
+			"enabled": false,
+			"name": "vsetv.com"
+		},
+		{
+			"enabled": false,
+			"name": "sbb.rs"
+		},
+		{
+			"enabled": false,
+			"name": "tvportal.rs"
+		},
+		{
+			"enabled": false,
+			"name": "sporedi.tv"
+		},
+		{
+			"enabled": false,
+			"name": "sportklub.hr"
+		},
+		{
+			"enabled": false,
+			"name": "bulgaria24.tv"
+		}
+	],
 	"useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
 	"mode": "m,nomark"
 }
